@@ -1,0 +1,23 @@
+{
+  "name": "mta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buildProto": "pbjs -t static-module -w commonjs -o ./src/gtfs.js ./mta-gtfs-realtime.proto",
+    "start": "node src/index.js",
+    "test": "node src/test.js"
+  },
+  "keywords": [],
+  "author": "maast3r",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "gtfs-realtime-bindings": "^1.1.1",
+    "node-fetch": "^3.3.2",
+    "protobufjs": "^7.2.6",
+    "protobufjs-cli": "^1.1.2",
+    "undici": "^6.6.2"
+  }
+}

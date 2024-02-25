@@ -1,0 +1,1355 @@
+[
+    {
+        "id": "000002D",
+        "vehicle": {
+            "trip": {
+                "tripId": "064500_D..N",
+                "startTime": "10:48:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "ED 1045 STL/205",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 34,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "D06N"
+        }
+    },
+    {
+        "id": "000004D",
+        "vehicle": {
+            "trip": {
+                "tripId": "065100_D..N07R",
+                "startTime": "10:52:43",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1051 STL/205",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 26,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794665",
+            "stopId": "D11N"
+        }
+    },
+    {
+        "id": "000006D",
+        "vehicle": {
+            "trip": {
+                "tripId": "064550_D..S07R",
+                "startTime": "10:45:53",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1045+ BPK/STL",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 34,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794707",
+            "stopId": "D43S"
+        }
+    },
+    {
+        "id": "000008D",
+        "vehicle": {
+            "trip": {
+                "tripId": "065750_D..S07R",
+                "startTime": "10:57:40",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1057+ BPK/STL",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 26,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794733",
+            "stopId": "B16S"
+        }
+    },
+    {
+        "id": "000010D",
+        "vehicle": {
+            "trip": {
+                "tripId": "066950_D..S07R",
+                "startTime": "11:11:19",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1109+ BPK/STL",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 20,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794497",
+            "stopId": "R31S"
+        }
+    },
+    {
+        "id": "000012D",
+        "vehicle": {
+            "trip": {
+                "tripId": "066300_D..N07R",
+                "startTime": "11:03:00",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1103 STL/205",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 23,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794642",
+            "stopId": "A15N"
+        }
+    },
+    {
+        "id": "000014D",
+        "vehicle": {
+            "trip": {
+                "tripId": "067500_D..N07R",
+                "startTime": "11:15:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1115 STL/205",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 18,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "D17N"
+        }
+    },
+    {
+        "id": "000016D",
+        "vehicle": {
+            "trip": {
+                "tripId": "068150_D..S07R",
+                "startTime": "11:21:34",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1121+ BPK/STL",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 19,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794445",
+            "stopId": "D22S"
+        }
+    },
+    {
+        "id": "000018D",
+        "vehicle": {
+            "trip": {
+                "tripId": "068700_D..N07R",
+                "startTime": "11:27:01",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1127 STL/205",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 15,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794727",
+            "stopId": "D22N"
+        }
+    },
+    {
+        "id": "000020D",
+        "vehicle": {
+            "trip": {
+                "tripId": "069250_D..S07R",
+                "startTime": "11:32:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1132+ BPK/STL",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 18,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "D21S"
+        }
+    },
+    {
+        "id": "000022D",
+        "vehicle": {
+            "trip": {
+                "tripId": "070550_D..S07R",
+                "startTime": "11:45:02",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1145+ BPK/STL",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 11,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794535",
+            "stopId": "A15S"
+        }
+    },
+    {
+        "id": "000024D",
+        "vehicle": {
+            "trip": {
+                "tripId": "069900_D..N07R",
+                "startTime": "11:39:00",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1139 STL/205",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 17,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "R32N"
+        }
+    },
+    {
+        "id": "000026D",
+        "vehicle": {
+            "trip": {
+                "tripId": "071100_D..N07R",
+                "startTime": "11:51:00",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1151 STL/205",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 11,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "B13N"
+        }
+    },
+    {
+        "id": "000028D",
+        "vehicle": {
+            "trip": {
+                "tripId": "071750_D..S07R",
+                "startTime": "11:57:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1157+ BPK/STL",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 8,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "D11S"
+        }
+    },
+    {
+        "id": "000030D",
+        "vehicle": {
+            "trip": {
+                "tripId": "072950_D..S07R",
+                "startTime": "12:09:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1209+ BPK/STL",
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 1,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794690",
+            "stopId": "D04S"
+        }
+    },
+    {
+        "id": "000032D",
+        "vehicle": {
+            "trip": {
+                "tripId": "073500_D..N07R",
+                "startTime": "12:15:00",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1215 STL/205"
+                }
+            },
+            "timestamp": "1708794900",
+            "stopId": "D43N"
+        }
+    },
+    {
+        "id": "000034D",
+        "vehicle": {
+            "trip": {
+                "tripId": "073750_D..S07R",
+                "startTime": "12:17:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1217+ 205/STL",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708795050",
+            "stopId": "D01S"
+        }
+    },
+    {
+        "id": "000036D",
+        "vehicle": {
+            "trip": {
+                "tripId": "072300_D..N07R",
+                "startTime": "12:04:54",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1203 STL/205",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 3,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "B21N"
+        }
+    },
+    {
+        "id": "000038D",
+        "vehicle": {
+            "trip": {
+                "tripId": "074750_D..S07R",
+                "startTime": "12:27:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1227+ 205/STL",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708795650",
+            "stopId": "D01S"
+        }
+    },
+    {
+        "id": "000040D",
+        "vehicle": {
+            "trip": {
+                "tripId": "074700_D..N07R",
+                "startTime": "12:27:00",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1227 STL/205"
+                }
+            },
+            "timestamp": "1708795620",
+            "stopId": "D43N"
+        }
+    },
+    {
+        "id": "000042D",
+        "vehicle": {
+            "trip": {
+                "tripId": "076150_D..S07R",
+                "startTime": "12:41:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1241+ 205/STL",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708796490",
+            "stopId": "D01S"
+        }
+    },
+    {
+        "id": "000044D",
+        "vehicle": {
+            "trip": {
+                "tripId": "075900_D..N07R",
+                "startTime": "12:39:00",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1239 STL/205"
+                }
+            },
+            "timestamp": "1708796340",
+            "stopId": "D43N"
+        }
+    },
+    {
+        "id": "000046D",
+        "vehicle": {
+            "trip": {
+                "tripId": "077350_D..S07R",
+                "startTime": "12:53:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1253+ 205/STL",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708797210",
+            "stopId": "D01S"
+        }
+    },
+    {
+        "id": "000048D",
+        "vehicle": {
+            "trip": {
+                "tripId": "077100_D..N07R",
+                "startTime": "12:51:00",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1251 STL/205"
+                }
+            },
+            "timestamp": "1708797060",
+            "stopId": "D43N"
+        }
+    },
+    {
+        "id": "000050D",
+        "vehicle": {
+            "trip": {
+                "tripId": "078550_D..S07R",
+                "startTime": "13:05:30",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1305+ 205/STL",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708797930",
+            "stopId": "D01S"
+        }
+    },
+    {
+        "id": "000052D",
+        "vehicle": {
+            "trip": {
+                "tripId": "078300_D..N07R",
+                "startTime": "13:03:00",
+                "startDate": "20240224",
+                "routeId": "D",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1D 1303 STL/205"
+                }
+            },
+            "timestamp": "1708797780",
+            "stopId": "D43N"
+        }
+    },
+    {
+        "id": "000002F",
+        "vehicle": {
+            "trip": {
+                "tripId": "062950_F..N",
+                "startTime": "10:29:23",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1029+ KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 38,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794717",
+            "stopId": "F01N"
+        }
+    },
+    {
+        "id": "000004F",
+        "vehicle": {
+            "trip": {
+                "tripId": "064300_F..N",
+                "startTime": "10:43:28",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1043 KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 35,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794567",
+            "stopId": "F06N"
+        }
+    },
+    {
+        "id": "000006F",
+        "vehicle": {
+            "trip": {
+                "tripId": "063950_F..S53X044",
+                "startTime": "10:39:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1039+ 179/KHY",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 48,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "F33S"
+        }
+    },
+    {
+        "id": "000008F",
+        "vehicle": {
+            "trip": {
+                "tripId": "065700_F..N",
+                "startTime": "10:57:27",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1057 KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 34,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "F07N"
+        }
+    },
+    {
+        "id": "000010F",
+        "vehicle": {
+            "trip": {
+                "tripId": "065050_F..S53X044",
+                "startTime": "10:50:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1050+ 179/KHY",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 44,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "F29S"
+        }
+    },
+    {
+        "id": "000012F",
+        "vehicle": {
+            "trip": {
+                "tripId": "066700_F..N",
+                "startTime": "11:06:53",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1107 KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 32,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "G14N"
+        }
+    },
+    {
+        "id": "000014F",
+        "vehicle": {
+            "trip": {
+                "tripId": "066350_F..S53X044",
+                "startTime": "11:03:30",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1103+ 179/KHY",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 31,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "A36S"
+        }
+    },
+    {
+        "id": "000016F",
+        "vehicle": {
+            "trip": {
+                "tripId": "068100_F..N",
+                "startTime": "11:20:45",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1121 KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 26,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "D16N"
+        }
+    },
+    {
+        "id": "000018F",
+        "vehicle": {
+            "trip": {
+                "tripId": "068050_F..S53X043",
+                "startTime": "11:20:30",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1120+ 179/KHY",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 15,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794727",
+            "stopId": "D17S"
+        }
+    },
+    {
+        "id": "000020F",
+        "vehicle": {
+            "trip": {
+                "tripId": "069100_F..N",
+                "startTime": "11:31:05",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1131 KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 21,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "A33N"
+        }
+    },
+    {
+        "id": "000022F",
+        "vehicle": {
+            "trip": {
+                "tripId": "069300_F..S53X043",
+                "startTime": "11:34:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1133 179/KHY",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 12,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794730",
+            "stopId": "F12S"
+        }
+    },
+    {
+        "id": "000024F",
+        "vehicle": {
+            "trip": {
+                "tripId": "070100_F..N",
+                "startTime": "11:48:20",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1141 KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 12,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "F22N"
+        }
+    },
+    {
+        "id": "000026F",
+        "vehicle": {
+            "trip": {
+                "tripId": "071600_F..N",
+                "startTime": "11:56:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1156 KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 9,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794717",
+            "stopId": "F25N"
+        }
+    },
+    {
+        "id": "000028F",
+        "vehicle": {
+            "trip": {
+                "tripId": "070500_F..S53X043",
+                "startTime": "11:45:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1145 179/KHY",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 9,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "G21S"
+        }
+    },
+    {
+        "id": "000030F",
+        "vehicle": {
+            "trip": {
+                "tripId": "071700_F..S53X043",
+                "startTime": "11:58:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1157 179/KHY",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 6,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "F07S"
+        }
+    },
+    {
+        "id": "000032F",
+        "vehicle": {
+            "trip": {
+                "tripId": "072900_F..N",
+                "startTime": "12:09:28",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1209 KHY/179",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 2,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794733",
+            "stopId": "F33N"
+        }
+    },
+    {
+        "id": "000034F",
+        "vehicle": {
+            "trip": {
+                "tripId": "072900_F..S53X043",
+                "startTime": "12:09:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1209 179/KHY",
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 1,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794630",
+            "stopId": "F02S"
+        }
+    },
+    {
+        "id": "000036F",
+        "vehicle": {
+            "trip": {
+                "tripId": "073900_F..N",
+                "startTime": "12:19:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1219 KHY/179"
+                }
+            },
+            "timestamp": "1708795140",
+            "stopId": "F35N"
+        }
+    },
+    {
+        "id": "000038F",
+        "vehicle": {
+            "trip": {
+                "tripId": "074900_F..N",
+                "startTime": "12:29:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1229 KHY/179"
+                }
+            },
+            "timestamp": "1708795740",
+            "stopId": "F35N"
+        }
+    },
+    {
+        "id": "000040F",
+        "vehicle": {
+            "trip": {
+                "tripId": "074100_F..S53X043",
+                "startTime": "12:21:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1221 179/KHY",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708795260",
+            "stopId": "F01S"
+        }
+    },
+    {
+        "id": "000042F",
+        "vehicle": {
+            "trip": {
+                "tripId": "075300_F..S53X043",
+                "startTime": "12:33:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1233 179/KHY",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708795980",
+            "stopId": "F01S"
+        }
+    },
+    {
+        "id": "000044F",
+        "vehicle": {
+            "trip": {
+                "tripId": "076300_F..N",
+                "startTime": "12:43:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1243 KHY/179"
+                }
+            },
+            "timestamp": "1708796580",
+            "stopId": "F35N"
+        }
+    },
+    {
+        "id": "000046F",
+        "vehicle": {
+            "trip": {
+                "tripId": "076500_F..S53X043",
+                "startTime": "12:45:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1245 179/KHY",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708796700",
+            "stopId": "F01S"
+        }
+    },
+    {
+        "id": "000048F",
+        "vehicle": {
+            "trip": {
+                "tripId": "077700_F..N",
+                "startTime": "12:57:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1257 KHY/179"
+                }
+            },
+            "timestamp": "1708797420",
+            "stopId": "F35N"
+        }
+    },
+    {
+        "id": "000050F",
+        "vehicle": {
+            "trip": {
+                "tripId": "077700_F..S53X043",
+                "startTime": "12:57:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1257 179/KHY",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708797420",
+            "stopId": "F01S"
+        }
+    },
+    {
+        "id": "000052F",
+        "vehicle": {
+            "trip": {
+                "tripId": "078700_F..N",
+                "startTime": "13:07:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1307 KHY/179"
+                }
+            },
+            "timestamp": "1708798020",
+            "stopId": "F35N"
+        }
+    },
+    {
+        "id": "000054F",
+        "vehicle": {
+            "trip": {
+                "tripId": "078900_F..S53X043",
+                "startTime": "13:09:00",
+                "startDate": "20240224",
+                "routeId": "F",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1F 1309 179/KHY",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708798140",
+            "stopId": "F01S"
+        }
+    },
+    {
+        "id": "000002M",
+        "vehicle": {
+            "trip": {
+                "tripId": "070800_M..N37R",
+                "startTime": "11:47:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1148 MET/ESX",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 11,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794532",
+            "stopId": "M16N"
+        }
+    },
+    {
+        "id": "000004M",
+        "vehicle": {
+            "trip": {
+                "tripId": "071000_M..S37R",
+                "startTime": "11:50:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1150 ESX/MET",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 12,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794667",
+            "stopId": "M01S"
+        }
+    },
+    {
+        "id": "000006M",
+        "vehicle": {
+            "trip": {
+                "tripId": "071600_M..N37R",
+                "startTime": "11:57:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1156 MET/ESX",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 8,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "M12N"
+        }
+    },
+    {
+        "id": "000008M",
+        "vehicle": {
+            "trip": {
+                "tripId": "071800_M..S37R",
+                "startTime": "11:58:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1158 ESX/MET",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 5,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "M11S"
+        }
+    },
+    {
+        "id": "000010M",
+        "vehicle": {
+            "trip": {
+                "tripId": "072400_M..N37R",
+                "startTime": "12:04:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1204 MET/ESX",
+                    "isAssigned": true
+                }
+            },
+            "currentStopSequence": 5,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "M09N"
+        }
+    },
+    {
+        "id": "000012M",
+        "vehicle": {
+            "trip": {
+                "tripId": "072600_M..S37R",
+                "startTime": "12:06:30",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1206 ESX/MET",
+                    "isAssigned": true,
+                    "direction": "SOUTH"
+                }
+            },
+            "currentStopSequence": 1,
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794732",
+            "stopId": "M16S"
+        }
+    },
+    {
+        "id": "000014M",
+        "vehicle": {
+            "trip": {
+                "tripId": "073200_M..N37R",
+                "startTime": "12:12:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1212 MET/ESX"
+                }
+            },
+            "currentStatus": "STOPPED_AT",
+            "timestamp": "1708794720",
+            "stopId": "M01N"
+        }
+    },
+    {
+        "id": "000016M",
+        "vehicle": {
+            "trip": {
+                "tripId": "073400_M..S37R",
+                "startTime": "12:14:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1214 ESX/MET",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708794840",
+            "stopId": "M18S"
+        }
+    },
+    {
+        "id": "000018M",
+        "vehicle": {
+            "trip": {
+                "tripId": "074000_M..N37R",
+                "startTime": "12:20:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1220 MET/ESX"
+                }
+            },
+            "timestamp": "1708795200",
+            "stopId": "M01N"
+        }
+    },
+    {
+        "id": "000020M",
+        "vehicle": {
+            "trip": {
+                "tripId": "074200_M..S37R",
+                "startTime": "12:22:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1222 ESX/MET",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708795320",
+            "stopId": "M18S"
+        }
+    },
+    {
+        "id": "000022M",
+        "vehicle": {
+            "trip": {
+                "tripId": "074800_M..N37R",
+                "startTime": "12:28:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1228 MET/ESX"
+                }
+            },
+            "timestamp": "1708795680",
+            "stopId": "M01N"
+        }
+    },
+    {
+        "id": "000024M",
+        "vehicle": {
+            "trip": {
+                "tripId": "075000_M..S37R",
+                "startTime": "12:30:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1230 ESX/MET",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708795800",
+            "stopId": "M18S"
+        }
+    },
+    {
+        "id": "000026M",
+        "vehicle": {
+            "trip": {
+                "tripId": "075600_M..N37R",
+                "startTime": "12:36:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1236 MET/ESX"
+                }
+            },
+            "timestamp": "1708796160",
+            "stopId": "M01N"
+        }
+    },
+    {
+        "id": "000028M",
+        "vehicle": {
+            "trip": {
+                "tripId": "075800_M..S37R",
+                "startTime": "12:38:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1238 ESX/MET",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708796280",
+            "stopId": "M18S"
+        }
+    },
+    {
+        "id": "000030M",
+        "vehicle": {
+            "trip": {
+                "tripId": "076400_M..N37R",
+                "startTime": "12:44:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1244 MET/ESX"
+                }
+            },
+            "timestamp": "1708796640",
+            "stopId": "M01N"
+        }
+    },
+    {
+        "id": "000032M",
+        "vehicle": {
+            "trip": {
+                "tripId": "076600_M..S37R",
+                "startTime": "12:46:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1246 ESX/MET",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708796760",
+            "stopId": "M18S"
+        }
+    },
+    {
+        "id": "000034M",
+        "vehicle": {
+            "trip": {
+                "tripId": "077400_M..S37R",
+                "startTime": "12:54:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1254 ESX/MET",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708797240",
+            "stopId": "M18S"
+        }
+    },
+    {
+        "id": "000036M",
+        "vehicle": {
+            "trip": {
+                "tripId": "077200_M..N37R",
+                "startTime": "12:52:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1252 MET/ESX"
+                }
+            },
+            "timestamp": "1708797120",
+            "stopId": "M01N"
+        }
+    },
+    {
+        "id": "000038M",
+        "vehicle": {
+            "trip": {
+                "tripId": "078000_M..N37R",
+                "startTime": "13:00:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1300 MET/ESX"
+                }
+            },
+            "timestamp": "1708797600",
+            "stopId": "M01N"
+        }
+    },
+    {
+        "id": "000040M",
+        "vehicle": {
+            "trip": {
+                "tripId": "078200_M..S37R",
+                "startTime": "13:02:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1302 ESX/MET",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708797720",
+            "stopId": "M18S"
+        }
+    },
+    {
+        "id": "000042M",
+        "vehicle": {
+            "trip": {
+                "tripId": "078800_M..N37R",
+                "startTime": "13:08:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1308 MET/ESX"
+                }
+            },
+            "timestamp": "1708798080",
+            "stopId": "M01N"
+        }
+    },
+    {
+        "id": "000044M",
+        "vehicle": {
+            "trip": {
+                "tripId": "079000_M..S37R",
+                "startTime": "13:10:00",
+                "startDate": "20240224",
+                "routeId": "M",
+                ".transit_realtime.nyctTripDescriptor": {
+                    "trainId": "1M 1310 ESX/MET",
+                    "direction": "SOUTH"
+                }
+            },
+            "timestamp": "1708798200",
+            "stopId": "M18S"
+        }
+    }
+]
