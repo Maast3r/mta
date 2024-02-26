@@ -1,14 +1,12 @@
+const axios = require('axios');
 const fs = require('node:fs');
-
-const { fetch, setGlobalDispatcher, Agent } = require('undici');
-setGlobalDispatcher(new Agent({ connect: { timeout: 20_000 } }));
 
 const GtfsRealtimeBindings = require('./gtfs.js');
 const Stops = require('../mta-data/stops.json');
 
 // http://web.mta.info/developers/resources/line_colors.htm
 
-const MTA_API_KEY = process.env.MTA_API_KEY;
+axios.defaults.headers.common['x-api-key'] = process.env.MTA_API_KEY;
 
 const ACE =
     'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace';
@@ -19,16 +17,12 @@ const BDFM =
 const NQRW =
     'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw';
 
-const headers = { 'x-api-key': MTA_API_KEY };
-
 const test = (feed) => {
-    return fetch(feed, { headers })
+    return axios.get(feed, { responseType: 'arraybuffer' })
         .then((response) => {
-            return response.arrayBuffer();
-        })
-        .then((buffer) => {
-            // const feed = require('../feed.json');
+            const buffer = response.data;
 
+            // const feed = require('../feed.json');
             const feed =
                 GtfsRealtimeBindings.transit_realtime.FeedMessage.decode(
                     new Uint8Array(buffer)
@@ -50,12 +44,10 @@ const test = (feed) => {
             ).map((stop) => stop.stop_id);
             // console.log(stopIds);
 
-            const trains = feed.entity.filter((entity) => {
-                return stopIds.includes(entity?.vehicle?.stopId);
-            });
+            // const trains = feed.entity.filter((entity) => {
+            //     return stopIds.includes(entity?.vehicle?.stopId);
+            // });
             // console.log(trains);
-
-            const currentTime = 1708794732 * 1000;
 
             const arrivals = feed.entity
                 .filter((entity) => {
@@ -115,7 +107,7 @@ const test = (feed) => {
         });
 };
 
-// test();
+test(BDFM);
 
 const testMultiple = async () => {
     const a = await Promise.all([
@@ -138,4 +130,4 @@ const testMultiple = async () => {
     console.log(result);
 };
 
-testMultiple();
+// testMultiple();

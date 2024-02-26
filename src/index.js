@@ -1,18 +1,16 @@
+const axios = require('axios');
 const express = require('express');
 const cors = require('cors');
-const { Agent, fetch, setGlobalDispatcher } = require('undici');
 
 const Stops = require('../mta-data/stops.json');
 const GtfsRealtimeBindings = require('./gtfs.js');
-
-setGlobalDispatcher(new Agent({ connect: { timeout: 20_000 } }));
 
 const app = express();
 const port = process.env.PORT || 3000;
 
 app.use(cors());
 
-const MTA_API_KEY = process.env.MTA_API_KEY;
+axios.defaults.headers.common['x-api-key'] = process.env.MTA_API_KEY;
 
 const FEEDS = [
     'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace',
@@ -20,8 +18,6 @@ const FEEDS = [
     'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw',
     'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs',
 ];
-
-const headers = { 'x-api-key': MTA_API_KEY };
 
 const getStopNames = () => {
     const stops = new Set();
@@ -35,11 +31,9 @@ const getStopNames = () => {
 };
 
 const getTrainsFromFeed = ({ feed, stopName }) => {
-    return fetch(feed, { headers })
+    return axios.get(feed, { responseType: 'arraybuffer' })
         .then((response) => {
-            return response.arrayBuffer();
-        })
-        .then((buffer) => {
+            const buffer = response.data;
             const feed =
                 GtfsRealtimeBindings.transit_realtime.FeedMessage.decode(
                     new Uint8Array(buffer)
