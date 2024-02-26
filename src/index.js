@@ -8,7 +8,7 @@ const GtfsRealtimeBindings = require('./gtfs.js');
 setGlobalDispatcher(new Agent({ connect: { timeout: 20_000 } }));
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 app.use(cors());
 
