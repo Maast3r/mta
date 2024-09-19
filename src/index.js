@@ -2,8 +2,10 @@ const axios = require('axios');
 const express = require('express');
 const cors = require('cors');
 
-const Stops = require('../mta-data/stops.json');
 const GtfsRealtimeBindings = require('./gtfs.js');
+
+const stops = require('../mta-data/stops.json');
+const stations = require('../mta-data/stations.json');
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -19,18 +21,9 @@ const FEEDS = [
     'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs',
 ];
 
-const getStopNames = () => {
-    const stops = new Set();
-    Stops.forEach((stopInfo) => {
-        if (!stops.has(stopInfo.stop_name)) {
-            stops.add(stopInfo.stop_name);
-        }
-    });
+const getTrainsFromFeed = ({ feed, stationName }) => {
+    const station = stations.find((station) => station.name === stationName);
 
-    return Array.from(stops);
-};
-
-const getTrainsFromFeed = ({ feed, stopName }) => {
     return axios.get(feed, { responseType: 'arraybuffer' })
         .then((response) => {
             const buffer = response.data;
@@ -39,16 +32,12 @@ const getTrainsFromFeed = ({ feed, stopName }) => {
                     new Uint8Array(buffer)
                 );
 
-            const stopIds = Stops.filter(
-                (stop) => stop.stop_name === stopName
-            ).map((stop) => stop.stop_id);
-
             const arrivals = feed.entity
                 .filter((entity) => {
                     const doesStopExistArray =
                         entity?.tripUpdate?.stopTimeUpdate?.filter(
                             (stopTime) => {
-                                return stopIds.includes(stopTime.stopId);
+                                return station.stopIds.includes(stopTime.stopId);
                             }
                         );
                     return doesStopExistArray?.length > 0;
@@ -64,7 +53,7 @@ const getTrainsFromFeed = ({ feed, stopName }) => {
                         ...arrival,
                         ...vehicle,
                         stopUpdate: arrival.tripUpdate.stopTimeUpdate.find(
-                            (stopUpdate) => stopIds.includes(stopUpdate.stopId)
+                            (stopUpdate) => station.stopIds.includes(stopUpdate.stopId)
                         ),
                     };
                 });
@@ -95,9 +84,9 @@ const getTrainsFromFeed = ({ feed, stopName }) => {
         });
 };
 
-const getAllTrains = async (stopName) => {
+const getAllTrains = async (stationName) => {
     const feedResults = await Promise.all(
-        FEEDS.map((feed) => getTrainsFromFeed({ feed, stopName }))
+        FEEDS.map((feed) => getTrainsFromFeed({ feed, stationName }))
     );
     const result = { north: {}, south: {} };
 
@@ -113,17 +102,26 @@ const getAllTrains = async (stopName) => {
     return result;
 };
 
-app.get('/stops', (req, res) => {
-    res.send(Stops);
+app.get('/stations', (req, res) => {
+    const stationsToReturn = stations.map((station) => ({
+        ...station,
+        parentStopIds: station.parentStopIds.map((parentStopId) => String(parentStopId)),
+        stopIds: station.stopIds.map((stopId) => String(stopId)),
+        stopFamilies: station.stopFamilies.map((stopFamily) => ({
+            ...stopFamily,
+            parentStopId: String(stopFamily.parentStopId),
+        })),
+    }));
+
+    res.send(stationsToReturn);
 });
 
-app.get('/stopNames', (req, res) => {
-    const stops = getStopNames();
+app.get('/stops', (req, res) => {
     res.send(stops);
 });
 
 app.get('/trains', async (req, res) => {
-    const trains = await getAllTrains(req.query.stopName);
+    const trains = await getAllTrains(req.query.stationName);
     res.send(trains);
 });
 

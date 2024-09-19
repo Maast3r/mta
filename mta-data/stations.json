@@ -1,0 +1,9596 @@
+[
+	{
+		"id": "101",
+		"parentStopIds": [
+			101
+		],
+		"stopIds": [
+			"101N",
+			"101S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 101,
+				"children": [
+					"101N",
+					"101S"
+				]
+			}
+		],
+		"latitude": 40.889248,
+		"longitude": -73.898583,
+		"name": "Van Cortlandt Park-242 St"
+	},
+	{
+		"id": "103",
+		"parentStopIds": [
+			103
+		],
+		"stopIds": [
+			"103N",
+			"103S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 103,
+				"children": [
+					"103N",
+					"103S"
+				]
+			}
+		],
+		"latitude": 40.884667,
+		"longitude": -73.90087,
+		"name": "238 St"
+	},
+	{
+		"id": "104",
+		"parentStopIds": [
+			104
+		],
+		"stopIds": [
+			"104N",
+			"104S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 104,
+				"children": [
+					"104N",
+					"104S"
+				]
+			}
+		],
+		"latitude": 40.878856,
+		"longitude": -73.904834,
+		"name": "231 St"
+	},
+	{
+		"id": "106",
+		"parentStopIds": [
+			106
+		],
+		"stopIds": [
+			"106N",
+			"106S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 106,
+				"children": [
+					"106N",
+					"106S"
+				]
+			}
+		],
+		"latitude": 40.874561,
+		"longitude": -73.909831,
+		"name": "Marble Hill-225 St"
+	},
+	{
+		"id": "107",
+		"parentStopIds": [
+			107
+		],
+		"stopIds": [
+			"107N",
+			"107S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 107,
+				"children": [
+					"107N",
+					"107S"
+				]
+			}
+		],
+		"latitude": 40.869444,
+		"longitude": -73.915279,
+		"name": "215 St"
+	},
+	{
+		"id": "108",
+		"parentStopIds": [
+			108
+		],
+		"stopIds": [
+			"108N",
+			"108S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 108,
+				"children": [
+					"108N",
+					"108S"
+				]
+			}
+		],
+		"latitude": 40.864621,
+		"longitude": -73.918822,
+		"name": "207 St"
+	},
+	{
+		"id": "109",
+		"parentStopIds": [
+			109
+		],
+		"stopIds": [
+			"109N",
+			"109S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 109,
+				"children": [
+					"109N",
+					"109S"
+				]
+			}
+		],
+		"latitude": 40.860531,
+		"longitude": -73.925536,
+		"name": "Dyckman St"
+	},
+	{
+		"id": "110",
+		"parentStopIds": [
+			110
+		],
+		"stopIds": [
+			"110N",
+			"110S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 110,
+				"children": [
+					"110N",
+					"110S"
+				]
+			}
+		],
+		"latitude": 40.855225,
+		"longitude": -73.929412,
+		"name": "191 St"
+	},
+	{
+		"id": "111",
+		"parentStopIds": [
+			111
+		],
+		"stopIds": [
+			"111N",
+			"111S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 111,
+				"children": [
+					"111N",
+					"111S"
+				]
+			}
+		],
+		"latitude": 40.849505,
+		"longitude": -73.933596,
+		"name": "181 St"
+	},
+	{
+		"id": "112,A09",
+		"parentStopIds": [
+			112,
+			"A09"
+		],
+		"stopIds": [
+			"112N",
+			"112S",
+			"A09N",
+			"A09S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 112,
+				"children": [
+					"112N",
+					"112S"
+				]
+			},
+			{
+				"parentStopId": "A09",
+				"children": [
+					"A09N",
+					"A09S"
+				]
+			}
+		],
+		"latitude": 40.840556,
+		"longitude": -73.940133,
+		"name": "168 St-Washington Hts"
+	},
+	{
+		"id": "113",
+		"parentStopIds": [
+			113
+		],
+		"stopIds": [
+			"113N",
+			"113S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 113,
+				"children": [
+					"113N",
+					"113S"
+				]
+			}
+		],
+		"latitude": 40.834041,
+		"longitude": -73.94489,
+		"name": "157 St"
+	},
+	{
+		"id": "114",
+		"parentStopIds": [
+			114
+		],
+		"stopIds": [
+			"114N",
+			"114S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 114,
+				"children": [
+					"114N",
+					"114S"
+				]
+			}
+		],
+		"latitude": 40.826551,
+		"longitude": -73.95036,
+		"name": "145 St"
+	},
+	{
+		"id": "115",
+		"parentStopIds": [
+			115
+		],
+		"stopIds": [
+			"115N",
+			"115S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 115,
+				"children": [
+					"115N",
+					"115S"
+				]
+			}
+		],
+		"latitude": 40.822008,
+		"longitude": -73.953676,
+		"name": "137 St-City College"
+	},
+	{
+		"id": "116",
+		"parentStopIds": [
+			116
+		],
+		"stopIds": [
+			"116N",
+			"116S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 116,
+				"children": [
+					"116N",
+					"116S"
+				]
+			}
+		],
+		"latitude": 40.815581,
+		"longitude": -73.958372,
+		"name": "125 St"
+	},
+	{
+		"id": "117",
+		"parentStopIds": [
+			117
+		],
+		"stopIds": [
+			"117N",
+			"117S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 117,
+				"children": [
+					"117N",
+					"117S"
+				]
+			}
+		],
+		"latitude": 40.807722,
+		"longitude": -73.96411,
+		"name": "116 St-Columbia University"
+	},
+	{
+		"id": "118",
+		"parentStopIds": [
+			118
+		],
+		"stopIds": [
+			"118N",
+			"118S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 118,
+				"children": [
+					"118N",
+					"118S"
+				]
+			}
+		],
+		"latitude": 40.803967,
+		"longitude": -73.966847,
+		"name": "Cathedral Pkwy (110 St)"
+	},
+	{
+		"id": "119",
+		"parentStopIds": [
+			119
+		],
+		"stopIds": [
+			"119N",
+			"119S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 119,
+				"children": [
+					"119N",
+					"119S"
+				]
+			}
+		],
+		"latitude": 40.799446,
+		"longitude": -73.968379,
+		"name": "103 St"
+	},
+	{
+		"id": "120",
+		"parentStopIds": [
+			120
+		],
+		"stopIds": [
+			"120N",
+			"120S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 120,
+				"children": [
+					"120N",
+					"120S"
+				]
+			}
+		],
+		"latitude": 40.793919,
+		"longitude": -73.972323,
+		"name": "96 St"
+	},
+	{
+		"id": "121",
+		"parentStopIds": [
+			121
+		],
+		"stopIds": [
+			"121N",
+			"121S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 121,
+				"children": [
+					"121N",
+					"121S"
+				]
+			}
+		],
+		"latitude": 40.788644,
+		"longitude": -73.976218,
+		"name": "86 St"
+	},
+	{
+		"id": "122",
+		"parentStopIds": [
+			122
+		],
+		"stopIds": [
+			"122N",
+			"122S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 122,
+				"children": [
+					"122N",
+					"122S"
+				]
+			}
+		],
+		"latitude": 40.783934,
+		"longitude": -73.979917,
+		"name": "79 St"
+	},
+	{
+		"id": "123",
+		"parentStopIds": [
+			123
+		],
+		"stopIds": [
+			"123N",
+			"123S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 123,
+				"children": [
+					"123N",
+					"123S"
+				]
+			}
+		],
+		"latitude": 40.778453,
+		"longitude": -73.98197,
+		"name": "72 St"
+	},
+	{
+		"id": "124",
+		"parentStopIds": [
+			124
+		],
+		"stopIds": [
+			"124N",
+			"124S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 124,
+				"children": [
+					"124N",
+					"124S"
+				]
+			}
+		],
+		"latitude": 40.77344,
+		"longitude": -73.982209,
+		"name": "66 St-Lincoln Center"
+	},
+	{
+		"id": "125,A24",
+		"parentStopIds": [
+			125,
+			"A24"
+		],
+		"stopIds": [
+			"125N",
+			"125S",
+			"A24N",
+			"A24S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 125,
+				"children": [
+					"125N",
+					"125S"
+				]
+			},
+			{
+				"parentStopId": "A24",
+				"children": [
+					"A24N",
+					"A24S"
+				]
+			}
+		],
+		"latitude": 40.768247,
+		"longitude": -73.981929,
+		"name": "59 St-Columbus Circle"
+	},
+	{
+		"id": "126",
+		"parentStopIds": [
+			126
+		],
+		"stopIds": [
+			"126N",
+			"126S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 126,
+				"children": [
+					"126N",
+					"126S"
+				]
+			}
+		],
+		"latitude": 40.761728,
+		"longitude": -73.983849,
+		"name": "50 St"
+	},
+	{
+		"id": "127,725,902,A27,R16",
+		"parentStopIds": [
+			127,
+			725,
+			902,
+			"A27",
+			"R16"
+		],
+		"stopIds": [
+			"127N",
+			"127S",
+			"725N",
+			"725S",
+			"902N",
+			"902S",
+			"A27N",
+			"A27S",
+			"R16N",
+			"R16S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 127,
+				"children": [
+					"127N",
+					"127S"
+				]
+			},
+			{
+				"parentStopId": 725,
+				"children": [
+					"725N",
+					"725S"
+				]
+			},
+			{
+				"parentStopId": 902,
+				"children": [
+					"902N",
+					"902S"
+				]
+			},
+			{
+				"parentStopId": "A27",
+				"children": [
+					"A27N",
+					"A27S"
+				]
+			},
+			{
+				"parentStopId": "R16",
+				"children": [
+					"R16N",
+					"R16S"
+				]
+			}
+		],
+		"latitude": 40.75529,
+		"longitude": -73.987495,
+		"name": "Times Sq-42 St"
+	},
+	{
+		"id": "128",
+		"parentStopIds": [
+			128
+		],
+		"stopIds": [
+			"128N",
+			"128S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 128,
+				"children": [
+					"128N",
+					"128S"
+				]
+			}
+		],
+		"latitude": 40.750373,
+		"longitude": -73.991057,
+		"name": "34 St-Penn Station"
+	},
+	{
+		"id": "129",
+		"parentStopIds": [
+			129
+		],
+		"stopIds": [
+			"129N",
+			"129S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 129,
+				"children": [
+					"129N",
+					"129S"
+				]
+			}
+		],
+		"latitude": 40.747215,
+		"longitude": -73.993365,
+		"name": "28 St"
+	},
+	{
+		"id": "130",
+		"parentStopIds": [
+			130
+		],
+		"stopIds": [
+			"130N",
+			"130S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 130,
+				"children": [
+					"130N",
+					"130S"
+				]
+			}
+		],
+		"latitude": 40.744081,
+		"longitude": -73.995657,
+		"name": "23 St"
+	},
+	{
+		"id": "131",
+		"parentStopIds": [
+			131
+		],
+		"stopIds": [
+			"131N",
+			"131S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 131,
+				"children": [
+					"131N",
+					"131S"
+				]
+			}
+		],
+		"latitude": 40.74104,
+		"longitude": -73.997871,
+		"name": "18 St"
+	},
+	{
+		"id": "132,D19,L02",
+		"parentStopIds": [
+			132,
+			"D19",
+			"L02"
+		],
+		"stopIds": [
+			"132N",
+			"132S",
+			"D19N",
+			"D19S",
+			"L02N",
+			"L02S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 132,
+				"children": [
+					"132N",
+					"132S"
+				]
+			},
+			{
+				"parentStopId": "D19",
+				"children": [
+					"D19N",
+					"D19S"
+				]
+			},
+			{
+				"parentStopId": "L02",
+				"children": [
+					"L02N",
+					"L02S"
+				]
+			}
+		],
+		"latitude": 40.737826,
+		"longitude": -74.000201,
+		"name": "14 St"
+	},
+	{
+		"id": "133",
+		"parentStopIds": [
+			133
+		],
+		"stopIds": [
+			"133N",
+			"133S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 133,
+				"children": [
+					"133N",
+					"133S"
+				]
+			}
+		],
+		"latitude": 40.733422,
+		"longitude": -74.002906,
+		"name": "Christopher St-Sheridan Sq"
+	},
+	{
+		"id": "134",
+		"parentStopIds": [
+			134
+		],
+		"stopIds": [
+			"134N",
+			"134S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 134,
+				"children": [
+					"134N",
+					"134S"
+				]
+			}
+		],
+		"latitude": 40.728251,
+		"longitude": -74.005367,
+		"name": "Houston St"
+	},
+	{
+		"id": "135",
+		"parentStopIds": [
+			135
+		],
+		"stopIds": [
+			"135N",
+			"135S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 135,
+				"children": [
+					"135N",
+					"135S"
+				]
+			}
+		],
+		"latitude": 40.722854,
+		"longitude": -74.006277,
+		"name": "Canal St"
+	},
+	{
+		"id": "136",
+		"parentStopIds": [
+			136
+		],
+		"stopIds": [
+			"136N",
+			"136S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 136,
+				"children": [
+					"136N",
+					"136S"
+				]
+			}
+		],
+		"latitude": 40.719318,
+		"longitude": -74.006886,
+		"name": "Franklin St"
+	},
+	{
+		"id": "137",
+		"parentStopIds": [
+			137
+		],
+		"stopIds": [
+			"137N",
+			"137S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 137,
+				"children": [
+					"137N",
+					"137S"
+				]
+			}
+		],
+		"latitude": 40.715478,
+		"longitude": -74.009266,
+		"name": "Chambers St"
+	},
+	{
+		"id": "138",
+		"parentStopIds": [
+			138
+		],
+		"stopIds": [
+			"138N",
+			"138S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 138,
+				"children": [
+					"138N",
+					"138S"
+				]
+			}
+		],
+		"latitude": 40.711835,
+		"longitude": -74.012188,
+		"name": "WTC Cortlandt"
+	},
+	{
+		"id": "139",
+		"parentStopIds": [
+			139
+		],
+		"stopIds": [
+			"139N",
+			"139S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 139,
+				"children": [
+					"139N",
+					"139S"
+				]
+			}
+		],
+		"latitude": 40.707513,
+		"longitude": -74.013783,
+		"name": "Rector St"
+	},
+	{
+		"id": "140,R27",
+		"parentStopIds": [
+			140,
+			"R27"
+		],
+		"stopIds": [
+			"140N",
+			"140S",
+			"R27N",
+			"R27S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 140,
+				"children": [
+					"140N",
+					"140S"
+				]
+			},
+			{
+				"parentStopId": "R27",
+				"children": [
+					"R27N",
+					"R27S"
+				]
+			}
+		],
+		"latitude": 40.701411,
+		"longitude": -74.013205,
+		"name": "South Ferry Loop"
+	},
+	{
+		"id": "201",
+		"parentStopIds": [
+			201
+		],
+		"stopIds": [
+			"201N",
+			"201S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 201,
+				"children": [
+					"201N",
+					"201S"
+				]
+			}
+		],
+		"latitude": 40.903125,
+		"longitude": -73.85062,
+		"name": "Wakefield-241 St"
+	},
+	{
+		"id": "204",
+		"parentStopIds": [
+			204
+		],
+		"stopIds": [
+			"204N",
+			"204S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 204,
+				"children": [
+					"204N",
+					"204S"
+				]
+			}
+		],
+		"latitude": 40.898379,
+		"longitude": -73.854376,
+		"name": "Nereid Av"
+	},
+	{
+		"id": "205",
+		"parentStopIds": [
+			205
+		],
+		"stopIds": [
+			"205N",
+			"205S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 205,
+				"children": [
+					"205N",
+					"205S"
+				]
+			}
+		],
+		"latitude": 40.893193,
+		"longitude": -73.857473,
+		"name": "233 St"
+	},
+	{
+		"id": "206",
+		"parentStopIds": [
+			206
+		],
+		"stopIds": [
+			"206N",
+			"206S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 206,
+				"children": [
+					"206N",
+					"206S"
+				]
+			}
+		],
+		"latitude": 40.888022,
+		"longitude": -73.860341,
+		"name": "225 St"
+	},
+	{
+		"id": "207",
+		"parentStopIds": [
+			207
+		],
+		"stopIds": [
+			"207N",
+			"207S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 207,
+				"children": [
+					"207N",
+					"207S"
+				]
+			}
+		],
+		"latitude": 40.883895,
+		"longitude": -73.862633,
+		"name": "219 St"
+	},
+	{
+		"id": "208",
+		"parentStopIds": [
+			208
+		],
+		"stopIds": [
+			"208N",
+			"208S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 208,
+				"children": [
+					"208N",
+					"208S"
+				]
+			}
+		],
+		"latitude": 40.87785,
+		"longitude": -73.866256,
+		"name": "Gun Hill Rd"
+	},
+	{
+		"id": "209",
+		"parentStopIds": [
+			209
+		],
+		"stopIds": [
+			"209N",
+			"209S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 209,
+				"children": [
+					"209N",
+					"209S"
+				]
+			}
+		],
+		"latitude": 40.871356,
+		"longitude": -73.867164,
+		"name": "Burke Av"
+	},
+	{
+		"id": "210",
+		"parentStopIds": [
+			210
+		],
+		"stopIds": [
+			"210N",
+			"210S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 210,
+				"children": [
+					"210N",
+					"210S"
+				]
+			}
+		],
+		"latitude": 40.865462,
+		"longitude": -73.867352,
+		"name": "Allerton Av"
+	},
+	{
+		"id": "211",
+		"parentStopIds": [
+			211
+		],
+		"stopIds": [
+			"211N",
+			"211S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 211,
+				"children": [
+					"211N",
+					"211S"
+				]
+			}
+		],
+		"latitude": 40.857192,
+		"longitude": -73.867615,
+		"name": "Pelham Pkwy"
+	},
+	{
+		"id": "212",
+		"parentStopIds": [
+			212
+		],
+		"stopIds": [
+			"212N",
+			"212S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 212,
+				"children": [
+					"212N",
+					"212S"
+				]
+			}
+		],
+		"latitude": 40.848828,
+		"longitude": -73.868457,
+		"name": "Bronx Park East"
+	},
+	{
+		"id": "213",
+		"parentStopIds": [
+			213
+		],
+		"stopIds": [
+			"213N",
+			"213S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 213,
+				"children": [
+					"213N",
+					"213S"
+				]
+			}
+		],
+		"latitude": 40.841894,
+		"longitude": -73.873488,
+		"name": "E 180 St"
+	},
+	{
+		"id": "214",
+		"parentStopIds": [
+			214
+		],
+		"stopIds": [
+			"214N",
+			"214S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 214,
+				"children": [
+					"214N",
+					"214S"
+				]
+			}
+		],
+		"latitude": 40.840295,
+		"longitude": -73.880049,
+		"name": "West Farms Sq-E Tremont Av"
+	},
+	{
+		"id": "215",
+		"parentStopIds": [
+			215
+		],
+		"stopIds": [
+			"215N",
+			"215S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 215,
+				"children": [
+					"215N",
+					"215S"
+				]
+			}
+		],
+		"latitude": 40.837288,
+		"longitude": -73.887734,
+		"name": "174 St"
+	},
+	{
+		"id": "216",
+		"parentStopIds": [
+			216
+		],
+		"stopIds": [
+			"216N",
+			"216S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 216,
+				"children": [
+					"216N",
+					"216S"
+				]
+			}
+		],
+		"latitude": 40.829993,
+		"longitude": -73.891865,
+		"name": "Freeman St"
+	},
+	{
+		"id": "217",
+		"parentStopIds": [
+			217
+		],
+		"stopIds": [
+			"217N",
+			"217S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 217,
+				"children": [
+					"217N",
+					"217S"
+				]
+			}
+		],
+		"latitude": 40.824073,
+		"longitude": -73.893064,
+		"name": "Simpson St"
+	},
+	{
+		"id": "218",
+		"parentStopIds": [
+			218
+		],
+		"stopIds": [
+			"218N",
+			"218S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 218,
+				"children": [
+					"218N",
+					"218S"
+				]
+			}
+		],
+		"latitude": 40.822181,
+		"longitude": -73.896736,
+		"name": "Intervale Av"
+	},
+	{
+		"id": "219",
+		"parentStopIds": [
+			219
+		],
+		"stopIds": [
+			"219N",
+			"219S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 219,
+				"children": [
+					"219N",
+					"219S"
+				]
+			}
+		],
+		"latitude": 40.819585,
+		"longitude": -73.90177,
+		"name": "Prospect Av"
+	},
+	{
+		"id": "220",
+		"parentStopIds": [
+			220
+		],
+		"stopIds": [
+			"220N",
+			"220S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 220,
+				"children": [
+					"220N",
+					"220S"
+				]
+			}
+		],
+		"latitude": 40.81649,
+		"longitude": -73.907807,
+		"name": "Jackson Av"
+	},
+	{
+		"id": "221",
+		"parentStopIds": [
+			221
+		],
+		"stopIds": [
+			"221N",
+			"221S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 221,
+				"children": [
+					"221N",
+					"221S"
+				]
+			}
+		],
+		"latitude": 40.816109,
+		"longitude": -73.917757,
+		"name": "3 Av-149 St"
+	},
+	{
+		"id": "222,415",
+		"parentStopIds": [
+			222,
+			415
+		],
+		"stopIds": [
+			"222N",
+			"222S",
+			"415N",
+			"415S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 222,
+				"children": [
+					"222N",
+					"222S"
+				]
+			},
+			{
+				"parentStopId": 415,
+				"children": [
+					"415N",
+					"415S"
+				]
+			}
+		],
+		"latitude": 40.81841,
+		"longitude": -73.926718,
+		"name": "149 St-Grand Concourse"
+	},
+	{
+		"id": "227",
+		"parentStopIds": [
+			227
+		],
+		"stopIds": [
+			"227N",
+			"227S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 227,
+				"children": [
+					"227N",
+					"227S"
+				]
+			}
+		],
+		"latitude": 40.799075,
+		"longitude": -73.951822,
+		"name": "Central Park North (110 St)"
+	},
+	{
+		"id": "228,A36,E01,R25",
+		"parentStopIds": [
+			228,
+			"A36",
+			"E01",
+			"R25"
+		],
+		"stopIds": [
+			"228N",
+			"228S",
+			"A36N",
+			"A36S",
+			"E01N",
+			"E01S",
+			"R25N",
+			"R25S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 228,
+				"children": [
+					"228N",
+					"228S"
+				]
+			},
+			{
+				"parentStopId": "A36",
+				"children": [
+					"A36N",
+					"A36S"
+				]
+			},
+			{
+				"parentStopId": "E01",
+				"children": [
+					"E01N",
+					"E01S"
+				]
+			},
+			{
+				"parentStopId": "R25",
+				"children": [
+					"R25N",
+					"R25S"
+				]
+			}
+		],
+		"latitude": 40.713051,
+		"longitude": -74.008811,
+		"name": "Park Place"
+	},
+	{
+		"id": "229,418,A38,M22",
+		"parentStopIds": [
+			229,
+			418,
+			"A38",
+			"M22"
+		],
+		"stopIds": [
+			"229N",
+			"229S",
+			"418N",
+			"418S",
+			"A38N",
+			"A38S",
+			"M22N",
+			"M22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 229,
+				"children": [
+					"229N",
+					"229S"
+				]
+			},
+			{
+				"parentStopId": 418,
+				"children": [
+					"418N",
+					"418S"
+				]
+			},
+			{
+				"parentStopId": "A38",
+				"children": [
+					"A38N",
+					"A38S"
+				]
+			},
+			{
+				"parentStopId": "M22",
+				"children": [
+					"M22N",
+					"M22S"
+				]
+			}
+		],
+		"latitude": 40.709416,
+		"longitude": -74.006571,
+		"name": "Fulton St"
+	},
+	{
+		"id": "230",
+		"parentStopIds": [
+			230
+		],
+		"stopIds": [
+			"230N",
+			"230S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 230,
+				"children": [
+					"230N",
+					"230S"
+				]
+			}
+		],
+		"latitude": 40.706821,
+		"longitude": -74.0091,
+		"name": "Wall St"
+	},
+	{
+		"id": "231",
+		"parentStopIds": [
+			231
+		],
+		"stopIds": [
+			"231N",
+			"231S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 231,
+				"children": [
+					"231N",
+					"231S"
+				]
+			}
+		],
+		"latitude": 40.697466,
+		"longitude": -73.993086,
+		"name": "Clark St"
+	},
+	{
+		"id": "232,423,R28",
+		"parentStopIds": [
+			232,
+			423,
+			"R28"
+		],
+		"stopIds": [
+			"232N",
+			"232S",
+			"423N",
+			"423S",
+			"R28N",
+			"R28S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 232,
+				"children": [
+					"232N",
+					"232S"
+				]
+			},
+			{
+				"parentStopId": 423,
+				"children": [
+					"423N",
+					"423S"
+				]
+			},
+			{
+				"parentStopId": "R28",
+				"children": [
+					"R28N",
+					"R28S"
+				]
+			}
+		],
+		"latitude": 40.693219,
+		"longitude": -73.989998,
+		"name": "Borough Hall"
+	},
+	{
+		"id": "233",
+		"parentStopIds": [
+			233
+		],
+		"stopIds": [
+			"233N",
+			"233S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 233,
+				"children": [
+					"233N",
+					"233S"
+				]
+			}
+		],
+		"latitude": 40.690545,
+		"longitude": -73.985065,
+		"name": "Hoyt St"
+	},
+	{
+		"id": "234",
+		"parentStopIds": [
+			234
+		],
+		"stopIds": [
+			"234N",
+			"234S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 234,
+				"children": [
+					"234N",
+					"234S"
+				]
+			}
+		],
+		"latitude": 40.688246,
+		"longitude": -73.980492,
+		"name": "Nevins St"
+	},
+	{
+		"id": "235,D24,R31",
+		"parentStopIds": [
+			235,
+			"D24",
+			"R31"
+		],
+		"stopIds": [
+			"235N",
+			"235S",
+			"D24N",
+			"D24S",
+			"R31N",
+			"R31S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 235,
+				"children": [
+					"235N",
+					"235S"
+				]
+			},
+			{
+				"parentStopId": "D24",
+				"children": [
+					"D24N",
+					"D24S"
+				]
+			},
+			{
+				"parentStopId": "R31",
+				"children": [
+					"R31N",
+					"R31S"
+				]
+			}
+		],
+		"latitude": 40.684359,
+		"longitude": -73.977666,
+		"name": "Atlantic Av-Barclays Ctr"
+	},
+	{
+		"id": "236",
+		"parentStopIds": [
+			236
+		],
+		"stopIds": [
+			"236N",
+			"236S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 236,
+				"children": [
+					"236N",
+					"236S"
+				]
+			}
+		],
+		"latitude": 40.680829,
+		"longitude": -73.975098,
+		"name": "Bergen St"
+	},
+	{
+		"id": "237",
+		"parentStopIds": [
+			237
+		],
+		"stopIds": [
+			"237N",
+			"237S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 237,
+				"children": [
+					"237N",
+					"237S"
+				]
+			}
+		],
+		"latitude": 40.675235,
+		"longitude": -73.971046,
+		"name": "Grand Army Plaza"
+	},
+	{
+		"id": "238",
+		"parentStopIds": [
+			238
+		],
+		"stopIds": [
+			"238N",
+			"238S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 238,
+				"children": [
+					"238N",
+					"238S"
+				]
+			}
+		],
+		"latitude": 40.671987,
+		"longitude": -73.964375,
+		"name": "Eastern Pkwy-Brooklyn Museum"
+	},
+	{
+		"id": "239,S04",
+		"parentStopIds": [
+			239,
+			"S04"
+		],
+		"stopIds": [
+			"239N",
+			"239S",
+			"S04N",
+			"S04S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 239,
+				"children": [
+					"239N",
+					"239S"
+				]
+			},
+			{
+				"parentStopId": "S04",
+				"children": [
+					"S04N",
+					"S04S"
+				]
+			}
+		],
+		"latitude": 40.670682,
+		"longitude": -73.958131,
+		"name": "Franklin Av-Medgar Evers College"
+	},
+	{
+		"id": "241",
+		"parentStopIds": [
+			241
+		],
+		"stopIds": [
+			"241N",
+			"241S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 241,
+				"children": [
+					"241N",
+					"241S"
+				]
+			}
+		],
+		"latitude": 40.667883,
+		"longitude": -73.950683,
+		"name": "President St-Medgar Evers College"
+	},
+	{
+		"id": "242",
+		"parentStopIds": [
+			242
+		],
+		"stopIds": [
+			"242N",
+			"242S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 242,
+				"children": [
+					"242N",
+					"242S"
+				]
+			}
+		],
+		"latitude": 40.662742,
+		"longitude": -73.95085,
+		"name": "Sterling St"
+	},
+	{
+		"id": "243",
+		"parentStopIds": [
+			243
+		],
+		"stopIds": [
+			"243N",
+			"243S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 243,
+				"children": [
+					"243N",
+					"243S"
+				]
+			}
+		],
+		"latitude": 40.656652,
+		"longitude": -73.9502,
+		"name": "Winthrop St"
+	},
+	{
+		"id": "244",
+		"parentStopIds": [
+			244
+		],
+		"stopIds": [
+			"244N",
+			"244S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 244,
+				"children": [
+					"244N",
+					"244S"
+				]
+			}
+		],
+		"latitude": 40.650843,
+		"longitude": -73.949575,
+		"name": "Church Av"
+	},
+	{
+		"id": "245",
+		"parentStopIds": [
+			245
+		],
+		"stopIds": [
+			"245N",
+			"245S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 245,
+				"children": [
+					"245N",
+					"245S"
+				]
+			}
+		],
+		"latitude": 40.645098,
+		"longitude": -73.948959,
+		"name": "Beverly Rd"
+	},
+	{
+		"id": "246",
+		"parentStopIds": [
+			246
+		],
+		"stopIds": [
+			"246N",
+			"246S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 246,
+				"children": [
+					"246N",
+					"246S"
+				]
+			}
+		],
+		"latitude": 40.639967,
+		"longitude": -73.948411,
+		"name": "Newkirk Av-Little Haiti"
+	},
+	{
+		"id": "247",
+		"parentStopIds": [
+			247
+		],
+		"stopIds": [
+			"247N",
+			"247S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 247,
+				"children": [
+					"247N",
+					"247S"
+				]
+			}
+		],
+		"latitude": 40.632836,
+		"longitude": -73.947642,
+		"name": "Flatbush Av-Brooklyn College"
+	},
+	{
+		"id": "248",
+		"parentStopIds": [
+			248
+		],
+		"stopIds": [
+			"248N",
+			"248S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 248,
+				"children": [
+					"248N",
+					"248S"
+				]
+			}
+		],
+		"latitude": 40.669847,
+		"longitude": -73.950466,
+		"name": "Nostrand Av"
+	},
+	{
+		"id": "249",
+		"parentStopIds": [
+			249
+		],
+		"stopIds": [
+			"249N",
+			"249S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 249,
+				"children": [
+					"249N",
+					"249S"
+				]
+			}
+		],
+		"latitude": 40.669399,
+		"longitude": -73.942161,
+		"name": "Kingston Av"
+	},
+	{
+		"id": "250",
+		"parentStopIds": [
+			250
+		],
+		"stopIds": [
+			"250N",
+			"250S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 250,
+				"children": [
+					"250N",
+					"250S"
+				]
+			}
+		],
+		"latitude": 40.668897,
+		"longitude": -73.932942,
+		"name": "Crown Hts-Utica Av"
+	},
+	{
+		"id": "251",
+		"parentStopIds": [
+			251
+		],
+		"stopIds": [
+			"251N",
+			"251S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 251,
+				"children": [
+					"251N",
+					"251S"
+				]
+			}
+		],
+		"latitude": 40.664717,
+		"longitude": -73.92261,
+		"name": "Sutter Av-Rutland Rd"
+	},
+	{
+		"id": "252",
+		"parentStopIds": [
+			252
+		],
+		"stopIds": [
+			"252N",
+			"252S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 252,
+				"children": [
+					"252N",
+					"252S"
+				]
+			}
+		],
+		"latitude": 40.661453,
+		"longitude": -73.916327,
+		"name": "Saratoga Av"
+	},
+	{
+		"id": "253",
+		"parentStopIds": [
+			253
+		],
+		"stopIds": [
+			"253N",
+			"253S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 253,
+				"children": [
+					"253N",
+					"253S"
+				]
+			}
+		],
+		"latitude": 40.662549,
+		"longitude": -73.908946,
+		"name": "Rockaway Av"
+	},
+	{
+		"id": "254,L26",
+		"parentStopIds": [
+			254,
+			"L26"
+		],
+		"stopIds": [
+			"254N",
+			"254S",
+			"L26N",
+			"L26S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 254,
+				"children": [
+					"254N",
+					"254S"
+				]
+			},
+			{
+				"parentStopId": "L26",
+				"children": [
+					"L26N",
+					"L26S"
+				]
+			}
+		],
+		"latitude": 40.663515,
+		"longitude": -73.902447,
+		"name": "Junius St"
+	},
+	{
+		"id": "255",
+		"parentStopIds": [
+			255
+		],
+		"stopIds": [
+			"255N",
+			"255S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 255,
+				"children": [
+					"255N",
+					"255S"
+				]
+			}
+		],
+		"latitude": 40.664635,
+		"longitude": -73.894895,
+		"name": "Pennsylvania Av"
+	},
+	{
+		"id": "256",
+		"parentStopIds": [
+			256
+		],
+		"stopIds": [
+			"256N",
+			"256S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 256,
+				"children": [
+					"256N",
+					"256S"
+				]
+			}
+		],
+		"latitude": 40.665449,
+		"longitude": -73.889395,
+		"name": "Van Siclen Av"
+	},
+	{
+		"id": "257",
+		"parentStopIds": [
+			257
+		],
+		"stopIds": [
+			"257N",
+			"257S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 257,
+				"children": [
+					"257N",
+					"257S"
+				]
+			}
+		],
+		"latitude": 40.666235,
+		"longitude": -73.884079,
+		"name": "New Lots Av"
+	},
+	{
+		"id": "301",
+		"parentStopIds": [
+			301
+		],
+		"stopIds": [
+			"301N",
+			"301S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 301,
+				"children": [
+					"301N",
+					"301S"
+				]
+			}
+		],
+		"latitude": 40.82388,
+		"longitude": -73.93647,
+		"name": "Harlem-148 St"
+	},
+	{
+		"id": "302",
+		"parentStopIds": [
+			302
+		],
+		"stopIds": [
+			"302N",
+			"302S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 302,
+				"children": [
+					"302N",
+					"302S"
+				]
+			}
+		],
+		"latitude": 40.820421,
+		"longitude": -73.936245,
+		"name": "145 St"
+	},
+	{
+		"id": "401",
+		"parentStopIds": [
+			401
+		],
+		"stopIds": [
+			"401N",
+			"401S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 401,
+				"children": [
+					"401N",
+					"401S"
+				]
+			}
+		],
+		"latitude": 40.886037,
+		"longitude": -73.878751,
+		"name": "Woodlawn"
+	},
+	{
+		"id": "402",
+		"parentStopIds": [
+			402
+		],
+		"stopIds": [
+			"402N",
+			"402S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 402,
+				"children": [
+					"402N",
+					"402S"
+				]
+			}
+		],
+		"latitude": 40.87975,
+		"longitude": -73.884655,
+		"name": "Mosholu Pkwy"
+	},
+	{
+		"id": "405",
+		"parentStopIds": [
+			405
+		],
+		"stopIds": [
+			"405N",
+			"405S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 405,
+				"children": [
+					"405N",
+					"405S"
+				]
+			}
+		],
+		"latitude": 40.873412,
+		"longitude": -73.890064,
+		"name": "Bedford Park Blvd-Lehman College"
+	},
+	{
+		"id": "406",
+		"parentStopIds": [
+			406
+		],
+		"stopIds": [
+			"406N",
+			"406S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 406,
+				"children": [
+					"406N",
+					"406S"
+				]
+			}
+		],
+		"latitude": 40.86776,
+		"longitude": -73.897174,
+		"name": "Kingsbridge Rd"
+	},
+	{
+		"id": "407",
+		"parentStopIds": [
+			407
+		],
+		"stopIds": [
+			"407N",
+			"407S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 407,
+				"children": [
+					"407N",
+					"407S"
+				]
+			}
+		],
+		"latitude": 40.862803,
+		"longitude": -73.901034,
+		"name": "Fordham Rd"
+	},
+	{
+		"id": "408",
+		"parentStopIds": [
+			408
+		],
+		"stopIds": [
+			"408N",
+			"408S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 408,
+				"children": [
+					"408N",
+					"408S"
+				]
+			}
+		],
+		"latitude": 40.858407,
+		"longitude": -73.903879,
+		"name": "183 St"
+	},
+	{
+		"id": "409",
+		"parentStopIds": [
+			409
+		],
+		"stopIds": [
+			"409N",
+			"409S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 409,
+				"children": [
+					"409N",
+					"409S"
+				]
+			}
+		],
+		"latitude": 40.853453,
+		"longitude": -73.907684,
+		"name": "Burnside Av"
+	},
+	{
+		"id": "410",
+		"parentStopIds": [
+			410
+		],
+		"stopIds": [
+			"410N",
+			"410S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 410,
+				"children": [
+					"410N",
+					"410S"
+				]
+			}
+		],
+		"latitude": 40.84848,
+		"longitude": -73.911794,
+		"name": "176 St"
+	},
+	{
+		"id": "411",
+		"parentStopIds": [
+			411
+		],
+		"stopIds": [
+			"411N",
+			"411S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 411,
+				"children": [
+					"411N",
+					"411S"
+				]
+			}
+		],
+		"latitude": 40.844434,
+		"longitude": -73.914685,
+		"name": "Mt Eden Av"
+	},
+	{
+		"id": "412",
+		"parentStopIds": [
+			412
+		],
+		"stopIds": [
+			"412N",
+			"412S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 412,
+				"children": [
+					"412N",
+					"412S"
+				]
+			}
+		],
+		"latitude": 40.840075,
+		"longitude": -73.917791,
+		"name": "170 St"
+	},
+	{
+		"id": "413",
+		"parentStopIds": [
+			413
+		],
+		"stopIds": [
+			"413N",
+			"413S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 413,
+				"children": [
+					"413N",
+					"413S"
+				]
+			}
+		],
+		"latitude": 40.835537,
+		"longitude": -73.9214,
+		"name": "167 St"
+	},
+	{
+		"id": "414,D11",
+		"parentStopIds": [
+			414,
+			"D11"
+		],
+		"stopIds": [
+			"414N",
+			"414S",
+			"D11N",
+			"D11S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 414,
+				"children": [
+					"414N",
+					"414S"
+				]
+			},
+			{
+				"parentStopId": "D11",
+				"children": [
+					"D11N",
+					"D11S"
+				]
+			}
+		],
+		"latitude": 40.827994,
+		"longitude": -73.925831,
+		"name": "161 St-Yankee Stadium"
+	},
+	{
+		"id": "416",
+		"parentStopIds": [
+			416
+		],
+		"stopIds": [
+			"416N",
+			"416S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 416,
+				"children": [
+					"416N",
+					"416S"
+				]
+			}
+		],
+		"latitude": 40.813224,
+		"longitude": -73.929849,
+		"name": "138 St-Grand Concourse"
+	},
+	{
+		"id": "419",
+		"parentStopIds": [
+			419
+		],
+		"stopIds": [
+			"419N",
+			"419S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 419,
+				"children": [
+					"419N",
+					"419S"
+				]
+			}
+		],
+		"latitude": 40.707557,
+		"longitude": -74.011862,
+		"name": "Wall St"
+	},
+	{
+		"id": "420",
+		"parentStopIds": [
+			420
+		],
+		"stopIds": [
+			"420N",
+			"420S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 420,
+				"children": [
+					"420N",
+					"420S"
+				]
+			}
+		],
+		"latitude": 40.704817,
+		"longitude": -74.014065,
+		"name": "Bowling Green"
+	},
+	{
+		"id": "501",
+		"parentStopIds": [
+			501
+		],
+		"stopIds": [
+			"501N",
+			"501S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 501,
+				"children": [
+					"501N",
+					"501S"
+				]
+			}
+		],
+		"latitude": 40.8883,
+		"longitude": -73.830834,
+		"name": "Eastchester-Dyre Av"
+	},
+	{
+		"id": "502",
+		"parentStopIds": [
+			502
+		],
+		"stopIds": [
+			"502N",
+			"502S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 502,
+				"children": [
+					"502N",
+					"502S"
+				]
+			}
+		],
+		"latitude": 40.878663,
+		"longitude": -73.838591,
+		"name": "Baychester Av"
+	},
+	{
+		"id": "503",
+		"parentStopIds": [
+			503
+		],
+		"stopIds": [
+			"503N",
+			"503S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 503,
+				"children": [
+					"503N",
+					"503S"
+				]
+			}
+		],
+		"latitude": 40.869526,
+		"longitude": -73.846384,
+		"name": "Gun Hill Rd"
+	},
+	{
+		"id": "504",
+		"parentStopIds": [
+			504
+		],
+		"stopIds": [
+			"504N",
+			"504S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 504,
+				"children": [
+					"504N",
+					"504S"
+				]
+			}
+		],
+		"latitude": 40.858985,
+		"longitude": -73.855359,
+		"name": "Pelham Pkwy"
+	},
+	{
+		"id": "505",
+		"parentStopIds": [
+			505
+		],
+		"stopIds": [
+			"505N",
+			"505S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 505,
+				"children": [
+					"505N",
+					"505S"
+				]
+			}
+		],
+		"latitude": 40.854364,
+		"longitude": -73.860495,
+		"name": "Morris Park"
+	},
+	{
+		"id": "601",
+		"parentStopIds": [
+			601
+		],
+		"stopIds": [
+			"601N",
+			"601S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 601,
+				"children": [
+					"601N",
+					"601S"
+				]
+			}
+		],
+		"latitude": 40.852462,
+		"longitude": -73.828121,
+		"name": "Pelham Bay Park"
+	},
+	{
+		"id": "602",
+		"parentStopIds": [
+			602
+		],
+		"stopIds": [
+			"602N",
+			"602S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 602,
+				"children": [
+					"602N",
+					"602S"
+				]
+			}
+		],
+		"latitude": 40.84681,
+		"longitude": -73.832569,
+		"name": "Buhre Av"
+	},
+	{
+		"id": "603",
+		"parentStopIds": [
+			603
+		],
+		"stopIds": [
+			"603N",
+			"603S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 603,
+				"children": [
+					"603N",
+					"603S"
+				]
+			}
+		],
+		"latitude": 40.843863,
+		"longitude": -73.836322,
+		"name": "Middletown Rd"
+	},
+	{
+		"id": "604",
+		"parentStopIds": [
+			604
+		],
+		"stopIds": [
+			"604N",
+			"604S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 604,
+				"children": [
+					"604N",
+					"604S"
+				]
+			}
+		],
+		"latitude": 40.839892,
+		"longitude": -73.842952,
+		"name": "Westchester Sq-E Tremont Av"
+	},
+	{
+		"id": "606",
+		"parentStopIds": [
+			606
+		],
+		"stopIds": [
+			"606N",
+			"606S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 606,
+				"children": [
+					"606N",
+					"606S"
+				]
+			}
+		],
+		"latitude": 40.836488,
+		"longitude": -73.847036,
+		"name": "Zerega Av"
+	},
+	{
+		"id": "607",
+		"parentStopIds": [
+			607
+		],
+		"stopIds": [
+			"607N",
+			"607S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 607,
+				"children": [
+					"607N",
+					"607S"
+				]
+			}
+		],
+		"latitude": 40.834255,
+		"longitude": -73.851222,
+		"name": "Castle Hill Av"
+	},
+	{
+		"id": "608",
+		"parentStopIds": [
+			608
+		],
+		"stopIds": [
+			"608N",
+			"608S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 608,
+				"children": [
+					"608N",
+					"608S"
+				]
+			}
+		],
+		"latitude": 40.833226,
+		"longitude": -73.860816,
+		"name": "Parkchester"
+	},
+	{
+		"id": "609",
+		"parentStopIds": [
+			609
+		],
+		"stopIds": [
+			"609N",
+			"609S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 609,
+				"children": [
+					"609N",
+					"609S"
+				]
+			}
+		],
+		"latitude": 40.831509,
+		"longitude": -73.867618,
+		"name": "St Lawrence Av"
+	},
+	{
+		"id": "610",
+		"parentStopIds": [
+			610
+		],
+		"stopIds": [
+			"610N",
+			"610S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 610,
+				"children": [
+					"610N",
+					"610S"
+				]
+			}
+		],
+		"latitude": 40.829521,
+		"longitude": -73.874516,
+		"name": "Morrison Av-Soundview"
+	},
+	{
+		"id": "611",
+		"parentStopIds": [
+			611
+		],
+		"stopIds": [
+			"611N",
+			"611S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 611,
+				"children": [
+					"611N",
+					"611S"
+				]
+			}
+		],
+		"latitude": 40.828584,
+		"longitude": -73.879159,
+		"name": "Elder Av"
+	},
+	{
+		"id": "612",
+		"parentStopIds": [
+			612
+		],
+		"stopIds": [
+			"612N",
+			"612S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 612,
+				"children": [
+					"612N",
+					"612S"
+				]
+			}
+		],
+		"latitude": 40.826525,
+		"longitude": -73.886283,
+		"name": "Whitlock Av"
+	},
+	{
+		"id": "613",
+		"parentStopIds": [
+			613
+		],
+		"stopIds": [
+			"613N",
+			"613S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 613,
+				"children": [
+					"613N",
+					"613S"
+				]
+			}
+		],
+		"latitude": 40.820948,
+		"longitude": -73.890549,
+		"name": "Hunts Point Av"
+	},
+	{
+		"id": "614",
+		"parentStopIds": [
+			614
+		],
+		"stopIds": [
+			"614N",
+			"614S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 614,
+				"children": [
+					"614N",
+					"614S"
+				]
+			}
+		],
+		"latitude": 40.816104,
+		"longitude": -73.896435,
+		"name": "Longwood Av"
+	},
+	{
+		"id": "615",
+		"parentStopIds": [
+			615
+		],
+		"stopIds": [
+			"615N",
+			"615S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 615,
+				"children": [
+					"615N",
+					"615S"
+				]
+			}
+		],
+		"latitude": 40.812118,
+		"longitude": -73.904098,
+		"name": "E 149 St"
+	},
+	{
+		"id": "616",
+		"parentStopIds": [
+			616
+		],
+		"stopIds": [
+			"616N",
+			"616S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 616,
+				"children": [
+					"616N",
+					"616S"
+				]
+			}
+		],
+		"latitude": 40.808719,
+		"longitude": -73.907657,
+		"name": "E 143 St-St Mary's St"
+	},
+	{
+		"id": "617",
+		"parentStopIds": [
+			617
+		],
+		"stopIds": [
+			"617N",
+			"617S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 617,
+				"children": [
+					"617N",
+					"617S"
+				]
+			}
+		],
+		"latitude": 40.805368,
+		"longitude": -73.914042,
+		"name": "Cypress Av"
+	},
+	{
+		"id": "618",
+		"parentStopIds": [
+			618
+		],
+		"stopIds": [
+			"618N",
+			"618S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 618,
+				"children": [
+					"618N",
+					"618S"
+				]
+			}
+		],
+		"latitude": 40.807566,
+		"longitude": -73.91924,
+		"name": "Brook Av"
+	},
+	{
+		"id": "619",
+		"parentStopIds": [
+			619
+		],
+		"stopIds": [
+			"619N",
+			"619S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 619,
+				"children": [
+					"619N",
+					"619S"
+				]
+			}
+		],
+		"latitude": 40.810476,
+		"longitude": -73.926138,
+		"name": "3 Av-138 St"
+	},
+	{
+		"id": "621",
+		"parentStopIds": [
+			621
+		],
+		"stopIds": [
+			"621N",
+			"621S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 621,
+				"children": [
+					"621N",
+					"621S"
+				]
+			}
+		],
+		"latitude": 40.804138,
+		"longitude": -73.937594,
+		"name": "125 St"
+	},
+	{
+		"id": "622",
+		"parentStopIds": [
+			622
+		],
+		"stopIds": [
+			"622N",
+			"622S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 622,
+				"children": [
+					"622N",
+					"622S"
+				]
+			}
+		],
+		"latitude": 40.798629,
+		"longitude": -73.941617,
+		"name": "116 St"
+	},
+	{
+		"id": "623",
+		"parentStopIds": [
+			623
+		],
+		"stopIds": [
+			"623N",
+			"623S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 623,
+				"children": [
+					"623N",
+					"623S"
+				]
+			}
+		],
+		"latitude": 40.79502,
+		"longitude": -73.94425,
+		"name": "110 St"
+	},
+	{
+		"id": "624",
+		"parentStopIds": [
+			624
+		],
+		"stopIds": [
+			"624N",
+			"624S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 624,
+				"children": [
+					"624N",
+					"624S"
+				]
+			}
+		],
+		"latitude": 40.7906,
+		"longitude": -73.947478,
+		"name": "103 St"
+	},
+	{
+		"id": "625",
+		"parentStopIds": [
+			625
+		],
+		"stopIds": [
+			"625N",
+			"625S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 625,
+				"children": [
+					"625N",
+					"625S"
+				]
+			}
+		],
+		"latitude": 40.785672,
+		"longitude": -73.95107,
+		"name": "96 St"
+	},
+	{
+		"id": "626",
+		"parentStopIds": [
+			626
+		],
+		"stopIds": [
+			"626N",
+			"626S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 626,
+				"children": [
+					"626N",
+					"626S"
+				]
+			}
+		],
+		"latitude": 40.779492,
+		"longitude": -73.955589,
+		"name": "86 St"
+	},
+	{
+		"id": "627",
+		"parentStopIds": [
+			627
+		],
+		"stopIds": [
+			"627N",
+			"627S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 627,
+				"children": [
+					"627N",
+					"627S"
+				]
+			}
+		],
+		"latitude": 40.77362,
+		"longitude": -73.959874,
+		"name": "77 St"
+	},
+	{
+		"id": "628",
+		"parentStopIds": [
+			628
+		],
+		"stopIds": [
+			"628N",
+			"628S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 628,
+				"children": [
+					"628N",
+					"628S"
+				]
+			}
+		],
+		"latitude": 40.768141,
+		"longitude": -73.96387,
+		"name": "68 St-Hunter College"
+	},
+	{
+		"id": "629,B08,R11",
+		"parentStopIds": [
+			629,
+			"B08",
+			"R11"
+		],
+		"stopIds": [
+			"629N",
+			"629S",
+			"B08N",
+			"B08S",
+			"R11N",
+			"R11S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 629,
+				"children": [
+					"629N",
+					"629S"
+				]
+			},
+			{
+				"parentStopId": "B08",
+				"children": [
+					"B08N",
+					"B08S"
+				]
+			},
+			{
+				"parentStopId": "R11",
+				"children": [
+					"R11N",
+					"R11S"
+				]
+			}
+		],
+		"latitude": 40.762526,
+		"longitude": -73.967967,
+		"name": "59 St"
+	},
+	{
+		"id": "630,F11",
+		"parentStopIds": [
+			630,
+			"F11"
+		],
+		"stopIds": [
+			"630N",
+			"630S",
+			"F11N",
+			"F11S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 630,
+				"children": [
+					"630N",
+					"630S"
+				]
+			},
+			{
+				"parentStopId": "F11",
+				"children": [
+					"F11N",
+					"F11S"
+				]
+			}
+		],
+		"latitude": 40.757107,
+		"longitude": -73.97192,
+		"name": "51 St"
+	},
+	{
+		"id": "631,723,901",
+		"parentStopIds": [
+			631,
+			723,
+			901
+		],
+		"stopIds": [
+			"631N",
+			"631S",
+			"723N",
+			"723S",
+			"901N",
+			"901S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 631,
+				"children": [
+					"631N",
+					"631S"
+				]
+			},
+			{
+				"parentStopId": 723,
+				"children": [
+					"723N",
+					"723S"
+				]
+			},
+			{
+				"parentStopId": 901,
+				"children": [
+					"901N",
+					"901S"
+				]
+			}
+		],
+		"latitude": 40.751776,
+		"longitude": -73.976848,
+		"name": "Grand Central-42 St"
+	},
+	{
+		"id": "632",
+		"parentStopIds": [
+			632
+		],
+		"stopIds": [
+			"632N",
+			"632S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 632,
+				"children": [
+					"632N",
+					"632S"
+				]
+			}
+		],
+		"latitude": 40.746081,
+		"longitude": -73.982076,
+		"name": "33 St"
+	},
+	{
+		"id": "633",
+		"parentStopIds": [
+			633
+		],
+		"stopIds": [
+			"633N",
+			"633S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 633,
+				"children": [
+					"633N",
+					"633S"
+				]
+			}
+		],
+		"latitude": 40.74307,
+		"longitude": -73.984264,
+		"name": "28 St"
+	},
+	{
+		"id": "634",
+		"parentStopIds": [
+			634
+		],
+		"stopIds": [
+			"634N",
+			"634S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 634,
+				"children": [
+					"634N",
+					"634S"
+				]
+			}
+		],
+		"latitude": 40.739864,
+		"longitude": -73.986599,
+		"name": "23 St"
+	},
+	{
+		"id": "635,L03,R20",
+		"parentStopIds": [
+			635,
+			"L03",
+			"R20"
+		],
+		"stopIds": [
+			"635N",
+			"635S",
+			"L03N",
+			"L03S",
+			"R20N",
+			"R20S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 635,
+				"children": [
+					"635N",
+					"635S"
+				]
+			},
+			{
+				"parentStopId": "L03",
+				"children": [
+					"L03N",
+					"L03S"
+				]
+			},
+			{
+				"parentStopId": "R20",
+				"children": [
+					"R20N",
+					"R20S"
+				]
+			}
+		],
+		"latitude": 40.734673,
+		"longitude": -73.989951,
+		"name": "14 St-Union Sq"
+	},
+	{
+		"id": "636",
+		"parentStopIds": [
+			636
+		],
+		"stopIds": [
+			"636N",
+			"636S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 636,
+				"children": [
+					"636N",
+					"636S"
+				]
+			}
+		],
+		"latitude": 40.730054,
+		"longitude": -73.99107,
+		"name": "Astor Pl"
+	},
+	{
+		"id": "637,D21",
+		"parentStopIds": [
+			637,
+			"D21"
+		],
+		"stopIds": [
+			"637N",
+			"637S",
+			"D21N",
+			"D21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 637,
+				"children": [
+					"637N",
+					"637S"
+				]
+			},
+			{
+				"parentStopId": "D21",
+				"children": [
+					"D21N",
+					"D21S"
+				]
+			}
+		],
+		"latitude": 40.725915,
+		"longitude": -73.994659,
+		"name": "Bleecker St"
+	},
+	{
+		"id": "638",
+		"parentStopIds": [
+			638
+		],
+		"stopIds": [
+			"638N",
+			"638S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 638,
+				"children": [
+					"638N",
+					"638S"
+				]
+			}
+		],
+		"latitude": 40.722301,
+		"longitude": -73.997141,
+		"name": "Spring St"
+	},
+	{
+		"id": "639,M20,Q01,R23",
+		"parentStopIds": [
+			639,
+			"M20",
+			"Q01",
+			"R23"
+		],
+		"stopIds": [
+			"639N",
+			"639S",
+			"M20N",
+			"M20S",
+			"Q01N",
+			"Q01S",
+			"R23N",
+			"R23S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 639,
+				"children": [
+					"639N",
+					"639S"
+				]
+			},
+			{
+				"parentStopId": "M20",
+				"children": [
+					"M20N",
+					"M20S"
+				]
+			},
+			{
+				"parentStopId": "Q01",
+				"children": [
+					"Q01N",
+					"Q01S"
+				]
+			},
+			{
+				"parentStopId": "R23",
+				"children": [
+					"R23N",
+					"R23S"
+				]
+			}
+		],
+		"latitude": 40.718803,
+		"longitude": -74.000193,
+		"name": "Canal St"
+	},
+	{
+		"id": "640,M21",
+		"parentStopIds": [
+			640,
+			"M21"
+		],
+		"stopIds": [
+			"640N",
+			"640S",
+			"M21N",
+			"M21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 640,
+				"children": [
+					"640N",
+					"640S"
+				]
+			},
+			{
+				"parentStopId": "M21",
+				"children": [
+					"M21N",
+					"M21S"
+				]
+			}
+		],
+		"latitude": 40.713065,
+		"longitude": -74.004131,
+		"name": "Brooklyn Bridge-City Hall"
+	},
+	{
+		"id": "701",
+		"parentStopIds": [
+			701
+		],
+		"stopIds": [
+			"701N",
+			"701S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 701,
+				"children": [
+					"701N",
+					"701S"
+				]
+			}
+		],
+		"latitude": 40.7596,
+		"longitude": -73.83003,
+		"name": "Flushing-Main St"
+	},
+	{
+		"id": "702",
+		"parentStopIds": [
+			702
+		],
+		"stopIds": [
+			"702N",
+			"702S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 702,
+				"children": [
+					"702N",
+					"702S"
+				]
+			}
+		],
+		"latitude": 40.754622,
+		"longitude": -73.845625,
+		"name": "Mets-Willets Point"
+	},
+	{
+		"id": "705",
+		"parentStopIds": [
+			705
+		],
+		"stopIds": [
+			"705N",
+			"705S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 705,
+				"children": [
+					"705N",
+					"705S"
+				]
+			}
+		],
+		"latitude": 40.75173,
+		"longitude": -73.855334,
+		"name": "111 St"
+	},
+	{
+		"id": "706",
+		"parentStopIds": [
+			706
+		],
+		"stopIds": [
+			"706N",
+			"706S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 706,
+				"children": [
+					"706N",
+					"706S"
+				]
+			}
+		],
+		"latitude": 40.749865,
+		"longitude": -73.8627,
+		"name": "103 St-Corona Plaza"
+	},
+	{
+		"id": "707",
+		"parentStopIds": [
+			707
+		],
+		"stopIds": [
+			"707N",
+			"707S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 707,
+				"children": [
+					"707N",
+					"707S"
+				]
+			}
+		],
+		"latitude": 40.749145,
+		"longitude": -73.869527,
+		"name": "Junction Blvd"
+	},
+	{
+		"id": "708",
+		"parentStopIds": [
+			708
+		],
+		"stopIds": [
+			"708N",
+			"708S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 708,
+				"children": [
+					"708N",
+					"708S"
+				]
+			}
+		],
+		"latitude": 40.748408,
+		"longitude": -73.876613,
+		"name": "90 St-Elmhurst Av"
+	},
+	{
+		"id": "709",
+		"parentStopIds": [
+			709
+		],
+		"stopIds": [
+			"709N",
+			"709S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 709,
+				"children": [
+					"709N",
+					"709S"
+				]
+			}
+		],
+		"latitude": 40.747659,
+		"longitude": -73.883697,
+		"name": "82 St-Jackson Hts"
+	},
+	{
+		"id": "710,G14",
+		"parentStopIds": [
+			710,
+			"G14"
+		],
+		"stopIds": [
+			"710N",
+			"710S",
+			"G14N",
+			"G14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 710,
+				"children": [
+					"710N",
+					"710S"
+				]
+			},
+			{
+				"parentStopId": "G14",
+				"children": [
+					"G14N",
+					"G14S"
+				]
+			}
+		],
+		"latitude": 40.746848,
+		"longitude": -73.891394,
+		"name": "74 St-Broadway"
+	},
+	{
+		"id": "711",
+		"parentStopIds": [
+			711
+		],
+		"stopIds": [
+			"711N",
+			"711S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 711,
+				"children": [
+					"711N",
+					"711S"
+				]
+			}
+		],
+		"latitude": 40.746325,
+		"longitude": -73.896403,
+		"name": "69 St"
+	},
+	{
+		"id": "712",
+		"parentStopIds": [
+			712
+		],
+		"stopIds": [
+			"712N",
+			"712S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 712,
+				"children": [
+					"712N",
+					"712S"
+				]
+			}
+		],
+		"latitude": 40.74563,
+		"longitude": -73.902984,
+		"name": "61 St-Woodside"
+	},
+	{
+		"id": "713",
+		"parentStopIds": [
+			713
+		],
+		"stopIds": [
+			"713N",
+			"713S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 713,
+				"children": [
+					"713N",
+					"713S"
+				]
+			}
+		],
+		"latitude": 40.744149,
+		"longitude": -73.912549,
+		"name": "52 St"
+	},
+	{
+		"id": "714",
+		"parentStopIds": [
+			714
+		],
+		"stopIds": [
+			"714N",
+			"714S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 714,
+				"children": [
+					"714N",
+					"714S"
+				]
+			}
+		],
+		"latitude": 40.743132,
+		"longitude": -73.918435,
+		"name": "46 St-Bliss St"
+	},
+	{
+		"id": "715",
+		"parentStopIds": [
+			715
+		],
+		"stopIds": [
+			"715N",
+			"715S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 715,
+				"children": [
+					"715N",
+					"715S"
+				]
+			}
+		],
+		"latitude": 40.743781,
+		"longitude": -73.924016,
+		"name": "40 St-Lowery St"
+	},
+	{
+		"id": "716",
+		"parentStopIds": [
+			716
+		],
+		"stopIds": [
+			"716N",
+			"716S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 716,
+				"children": [
+					"716N",
+					"716S"
+				]
+			}
+		],
+		"latitude": 40.744587,
+		"longitude": -73.930997,
+		"name": "33 St-Rawson St"
+	},
+	{
+		"id": "718,R09",
+		"parentStopIds": [
+			718,
+			"R09"
+		],
+		"stopIds": [
+			"718N",
+			"718S",
+			"R09N",
+			"R09S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 718,
+				"children": [
+					"718N",
+					"718S"
+				]
+			},
+			{
+				"parentStopId": "R09",
+				"children": [
+					"R09N",
+					"R09S"
+				]
+			}
+		],
+		"latitude": 40.750582,
+		"longitude": -73.940202,
+		"name": "Queensboro Plaza"
+	},
+	{
+		"id": "719,F09,G22",
+		"parentStopIds": [
+			719,
+			"F09",
+			"G22"
+		],
+		"stopIds": [
+			"719N",
+			"719S",
+			"F09N",
+			"F09S",
+			"G22N",
+			"G22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 719,
+				"children": [
+					"719N",
+					"719S"
+				]
+			},
+			{
+				"parentStopId": "F09",
+				"children": [
+					"F09N",
+					"F09S"
+				]
+			},
+			{
+				"parentStopId": "G22",
+				"children": [
+					"G22N",
+					"G22S"
+				]
+			}
+		],
+		"latitude": 40.747023,
+		"longitude": -73.945264,
+		"name": "Court Sq"
+	},
+	{
+		"id": "720",
+		"parentStopIds": [
+			720
+		],
+		"stopIds": [
+			"720N",
+			"720S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 720,
+				"children": [
+					"720N",
+					"720S"
+				]
+			}
+		],
+		"latitude": 40.742216,
+		"longitude": -73.948916,
+		"name": "Hunters Point Av"
+	},
+	{
+		"id": "721",
+		"parentStopIds": [
+			721
+		],
+		"stopIds": [
+			"721N",
+			"721S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 721,
+				"children": [
+					"721N",
+					"721S"
+				]
+			}
+		],
+		"latitude": 40.742626,
+		"longitude": -73.953581,
+		"name": "Vernon Blvd-Jackson Av"
+	},
+	{
+		"id": "724,D16",
+		"parentStopIds": [
+			724,
+			"D16"
+		],
+		"stopIds": [
+			"724N",
+			"724S",
+			"D16N",
+			"D16S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": 724,
+				"children": [
+					"724N",
+					"724S"
+				]
+			},
+			{
+				"parentStopId": "D16",
+				"children": [
+					"D16N",
+					"D16S"
+				]
+			}
+		],
+		"latitude": 40.753821,
+		"longitude": -73.981963,
+		"name": "5 Av"
+	},
+	{
+		"id": "A02",
+		"parentStopIds": [
+			"A02"
+		],
+		"stopIds": [
+			"A02N",
+			"A02S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A02",
+				"children": [
+					"A02N",
+					"A02S"
+				]
+			}
+		],
+		"latitude": 40.868072,
+		"longitude": -73.919899,
+		"name": "Inwood-207 St"
+	},
+	{
+		"id": "A03",
+		"parentStopIds": [
+			"A03"
+		],
+		"stopIds": [
+			"A03N",
+			"A03S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A03",
+				"children": [
+					"A03N",
+					"A03S"
+				]
+			}
+		],
+		"latitude": 40.865491,
+		"longitude": -73.927271,
+		"name": "Dyckman St"
+	},
+	{
+		"id": "A05",
+		"parentStopIds": [
+			"A05"
+		],
+		"stopIds": [
+			"A05N",
+			"A05S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A05",
+				"children": [
+					"A05N",
+					"A05S"
+				]
+			}
+		],
+		"latitude": 40.859022,
+		"longitude": -73.93418,
+		"name": "190 St"
+	},
+	{
+		"id": "A06",
+		"parentStopIds": [
+			"A06"
+		],
+		"stopIds": [
+			"A06N",
+			"A06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A06",
+				"children": [
+					"A06N",
+					"A06S"
+				]
+			}
+		],
+		"latitude": 40.851695,
+		"longitude": -73.937969,
+		"name": "181 St"
+	},
+	{
+		"id": "A07",
+		"parentStopIds": [
+			"A07"
+		],
+		"stopIds": [
+			"A07N",
+			"A07S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A07",
+				"children": [
+					"A07N",
+					"A07S"
+				]
+			}
+		],
+		"latitude": 40.847391,
+		"longitude": -73.939704,
+		"name": "175 St"
+	},
+	{
+		"id": "A10",
+		"parentStopIds": [
+			"A10"
+		],
+		"stopIds": [
+			"A10N",
+			"A10S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A10",
+				"children": [
+					"A10N",
+					"A10S"
+				]
+			}
+		],
+		"latitude": 40.836013,
+		"longitude": -73.939892,
+		"name": "163 St-Amsterdam Av"
+	},
+	{
+		"id": "A11",
+		"parentStopIds": [
+			"A11"
+		],
+		"stopIds": [
+			"A11N",
+			"A11S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A11",
+				"children": [
+					"A11N",
+					"A11S"
+				]
+			}
+		],
+		"latitude": 40.830518,
+		"longitude": -73.941514,
+		"name": "155 St"
+	},
+	{
+		"id": "A12,D13",
+		"parentStopIds": [
+			"A12",
+			"D13"
+		],
+		"stopIds": [
+			"A12N",
+			"A12S",
+			"D13N",
+			"D13S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A12",
+				"children": [
+					"A12N",
+					"A12S"
+				]
+			},
+			{
+				"parentStopId": "D13",
+				"children": [
+					"D13N",
+					"D13S"
+				]
+			}
+		],
+		"latitude": 40.824783,
+		"longitude": -73.944216,
+		"name": "145 St"
+	},
+	{
+		"id": "A14",
+		"parentStopIds": [
+			"A14"
+		],
+		"stopIds": [
+			"A14N",
+			"A14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A14",
+				"children": [
+					"A14N",
+					"A14S"
+				]
+			}
+		],
+		"latitude": 40.817894,
+		"longitude": -73.947649,
+		"name": "135 St"
+	},
+	{
+		"id": "A15",
+		"parentStopIds": [
+			"A15"
+		],
+		"stopIds": [
+			"A15N",
+			"A15S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A15",
+				"children": [
+					"A15N",
+					"A15S"
+				]
+			}
+		],
+		"latitude": 40.811109,
+		"longitude": -73.952343,
+		"name": "125 St"
+	},
+	{
+		"id": "A16",
+		"parentStopIds": [
+			"A16"
+		],
+		"stopIds": [
+			"A16N",
+			"A16S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A16",
+				"children": [
+					"A16N",
+					"A16S"
+				]
+			}
+		],
+		"latitude": 40.805085,
+		"longitude": -73.954882,
+		"name": "116 St"
+	},
+	{
+		"id": "A17",
+		"parentStopIds": [
+			"A17"
+		],
+		"stopIds": [
+			"A17N",
+			"A17S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A17",
+				"children": [
+					"A17N",
+					"A17S"
+				]
+			}
+		],
+		"latitude": 40.800603,
+		"longitude": -73.958161,
+		"name": "Cathedral Pkwy (110 St)"
+	},
+	{
+		"id": "A18",
+		"parentStopIds": [
+			"A18"
+		],
+		"stopIds": [
+			"A18N",
+			"A18S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A18",
+				"children": [
+					"A18N",
+					"A18S"
+				]
+			}
+		],
+		"latitude": 40.796092,
+		"longitude": -73.961454,
+		"name": "103 St"
+	},
+	{
+		"id": "A19",
+		"parentStopIds": [
+			"A19"
+		],
+		"stopIds": [
+			"A19N",
+			"A19S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A19",
+				"children": [
+					"A19N",
+					"A19S"
+				]
+			}
+		],
+		"latitude": 40.791642,
+		"longitude": -73.964696,
+		"name": "96 St"
+	},
+	{
+		"id": "A20",
+		"parentStopIds": [
+			"A20"
+		],
+		"stopIds": [
+			"A20N",
+			"A20S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A20",
+				"children": [
+					"A20N",
+					"A20S"
+				]
+			}
+		],
+		"latitude": 40.785868,
+		"longitude": -73.968916,
+		"name": "86 St"
+	},
+	{
+		"id": "A21",
+		"parentStopIds": [
+			"A21"
+		],
+		"stopIds": [
+			"A21N",
+			"A21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A21",
+				"children": [
+					"A21N",
+					"A21S"
+				]
+			}
+		],
+		"latitude": 40.781433,
+		"longitude": -73.972143,
+		"name": "81 St-Museum of Natural History"
+	},
+	{
+		"id": "A22",
+		"parentStopIds": [
+			"A22"
+		],
+		"stopIds": [
+			"A22N",
+			"A22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A22",
+				"children": [
+					"A22N",
+					"A22S"
+				]
+			}
+		],
+		"latitude": 40.775594,
+		"longitude": -73.97641,
+		"name": "72 St"
+	},
+	{
+		"id": "A25",
+		"parentStopIds": [
+			"A25"
+		],
+		"stopIds": [
+			"A25N",
+			"A25S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A25",
+				"children": [
+					"A25N",
+					"A25S"
+				]
+			}
+		],
+		"latitude": 40.762456,
+		"longitude": -73.985984,
+		"name": "50 St"
+	},
+	{
+		"id": "A28",
+		"parentStopIds": [
+			"A28"
+		],
+		"stopIds": [
+			"A28N",
+			"A28S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A28",
+				"children": [
+					"A28N",
+					"A28S"
+				]
+			}
+		],
+		"latitude": 40.752287,
+		"longitude": -73.993391,
+		"name": "34 St-Penn Station"
+	},
+	{
+		"id": "A30",
+		"parentStopIds": [
+			"A30"
+		],
+		"stopIds": [
+			"A30N",
+			"A30S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A30",
+				"children": [
+					"A30N",
+					"A30S"
+				]
+			}
+		],
+		"latitude": 40.745906,
+		"longitude": -73.998041,
+		"name": "23 St"
+	},
+	{
+		"id": "A31,L01",
+		"parentStopIds": [
+			"A31",
+			"L01"
+		],
+		"stopIds": [
+			"A31N",
+			"A31S",
+			"L01N",
+			"L01S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A31",
+				"children": [
+					"A31N",
+					"A31S"
+				]
+			},
+			{
+				"parentStopId": "L01",
+				"children": [
+					"L01N",
+					"L01S"
+				]
+			}
+		],
+		"latitude": 40.740893,
+		"longitude": -74.00169,
+		"name": "14 St"
+	},
+	{
+		"id": "A32,D20",
+		"parentStopIds": [
+			"A32",
+			"D20"
+		],
+		"stopIds": [
+			"A32N",
+			"A32S",
+			"D20N",
+			"D20S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A32",
+				"children": [
+					"A32N",
+					"A32S"
+				]
+			},
+			{
+				"parentStopId": "D20",
+				"children": [
+					"D20N",
+					"D20S"
+				]
+			}
+		],
+		"latitude": 40.732338,
+		"longitude": -74.000495,
+		"name": "W 4 St-Wash Sq"
+	},
+	{
+		"id": "A33",
+		"parentStopIds": [
+			"A33"
+		],
+		"stopIds": [
+			"A33N",
+			"A33S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A33",
+				"children": [
+					"A33N",
+					"A33S"
+				]
+			}
+		],
+		"latitude": 40.726227,
+		"longitude": -74.003739,
+		"name": "Spring St"
+	},
+	{
+		"id": "A34",
+		"parentStopIds": [
+			"A34"
+		],
+		"stopIds": [
+			"A34N",
+			"A34S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A34",
+				"children": [
+					"A34N",
+					"A34S"
+				]
+			}
+		],
+		"latitude": 40.720824,
+		"longitude": -74.005229,
+		"name": "Canal St"
+	},
+	{
+		"id": "A40",
+		"parentStopIds": [
+			"A40"
+		],
+		"stopIds": [
+			"A40N",
+			"A40S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A40",
+				"children": [
+					"A40N",
+					"A40S"
+				]
+			}
+		],
+		"latitude": 40.699337,
+		"longitude": -73.990531,
+		"name": "High St"
+	},
+	{
+		"id": "A41,R29",
+		"parentStopIds": [
+			"A41",
+			"R29"
+		],
+		"stopIds": [
+			"A41N",
+			"A41S",
+			"R29N",
+			"R29S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A41",
+				"children": [
+					"A41N",
+					"A41S"
+				]
+			},
+			{
+				"parentStopId": "R29",
+				"children": [
+					"R29N",
+					"R29S"
+				]
+			}
+		],
+		"latitude": 40.692338,
+		"longitude": -73.987342,
+		"name": "Jay St-MetroTech"
+	},
+	{
+		"id": "A42",
+		"parentStopIds": [
+			"A42"
+		],
+		"stopIds": [
+			"A42N",
+			"A42S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A42",
+				"children": [
+					"A42N",
+					"A42S"
+				]
+			}
+		],
+		"latitude": 40.688484,
+		"longitude": -73.985001,
+		"name": "Hoyt-Schermerhorn Sts"
+	},
+	{
+		"id": "A43",
+		"parentStopIds": [
+			"A43"
+		],
+		"stopIds": [
+			"A43N",
+			"A43S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A43",
+				"children": [
+					"A43N",
+					"A43S"
+				]
+			}
+		],
+		"latitude": 40.686113,
+		"longitude": -73.973946,
+		"name": "Lafayette Av"
+	},
+	{
+		"id": "A44",
+		"parentStopIds": [
+			"A44"
+		],
+		"stopIds": [
+			"A44N",
+			"A44S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A44",
+				"children": [
+					"A44N",
+					"A44S"
+				]
+			}
+		],
+		"latitude": 40.683263,
+		"longitude": -73.965838,
+		"name": "Clinton-Washington Avs"
+	},
+	{
+		"id": "A45,S01",
+		"parentStopIds": [
+			"A45",
+			"S01"
+		],
+		"stopIds": [
+			"A45N",
+			"A45S",
+			"S01N",
+			"S01S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A45",
+				"children": [
+					"A45N",
+					"A45S"
+				]
+			},
+			{
+				"parentStopId": "S01",
+				"children": [
+					"S01N",
+					"S01S"
+				]
+			}
+		],
+		"latitude": 40.68138,
+		"longitude": -73.956848,
+		"name": "Franklin Av"
+	},
+	{
+		"id": "A46",
+		"parentStopIds": [
+			"A46"
+		],
+		"stopIds": [
+			"A46N",
+			"A46S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A46",
+				"children": [
+					"A46N",
+					"A46S"
+				]
+			}
+		],
+		"latitude": 40.680438,
+		"longitude": -73.950426,
+		"name": "Nostrand Av"
+	},
+	{
+		"id": "A47",
+		"parentStopIds": [
+			"A47"
+		],
+		"stopIds": [
+			"A47N",
+			"A47S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A47",
+				"children": [
+					"A47N",
+					"A47S"
+				]
+			}
+		],
+		"latitude": 40.679921,
+		"longitude": -73.940858,
+		"name": "Kingston-Throop Avs"
+	},
+	{
+		"id": "A48",
+		"parentStopIds": [
+			"A48"
+		],
+		"stopIds": [
+			"A48N",
+			"A48S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A48",
+				"children": [
+					"A48N",
+					"A48S"
+				]
+			}
+		],
+		"latitude": 40.679364,
+		"longitude": -73.930729,
+		"name": "Utica Av"
+	},
+	{
+		"id": "A49",
+		"parentStopIds": [
+			"A49"
+		],
+		"stopIds": [
+			"A49N",
+			"A49S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A49",
+				"children": [
+					"A49N",
+					"A49S"
+				]
+			}
+		],
+		"latitude": 40.678822,
+		"longitude": -73.920786,
+		"name": "Ralph Av"
+	},
+	{
+		"id": "A50",
+		"parentStopIds": [
+			"A50"
+		],
+		"stopIds": [
+			"A50N",
+			"A50S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A50",
+				"children": [
+					"A50N",
+					"A50S"
+				]
+			}
+		],
+		"latitude": 40.67834,
+		"longitude": -73.911946,
+		"name": "Rockaway Av"
+	},
+	{
+		"id": "A51,J27,L22",
+		"parentStopIds": [
+			"A51",
+			"J27",
+			"L22"
+		],
+		"stopIds": [
+			"A51N",
+			"A51S",
+			"J27N",
+			"J27S",
+			"L22N",
+			"L22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A51",
+				"children": [
+					"A51N",
+					"A51S"
+				]
+			},
+			{
+				"parentStopId": "J27",
+				"children": [
+					"J27N",
+					"J27S"
+				]
+			},
+			{
+				"parentStopId": "L22",
+				"children": [
+					"L22N",
+					"L22S"
+				]
+			}
+		],
+		"latitude": 40.678334,
+		"longitude": -73.905316,
+		"name": "Broadway Junction"
+	},
+	{
+		"id": "A52",
+		"parentStopIds": [
+			"A52"
+		],
+		"stopIds": [
+			"A52N",
+			"A52S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A52",
+				"children": [
+					"A52N",
+					"A52S"
+				]
+			}
+		],
+		"latitude": 40.674542,
+		"longitude": -73.896548,
+		"name": "Liberty Av"
+	},
+	{
+		"id": "A53",
+		"parentStopIds": [
+			"A53"
+		],
+		"stopIds": [
+			"A53N",
+			"A53S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A53",
+				"children": [
+					"A53N",
+					"A53S"
+				]
+			}
+		],
+		"latitude": 40.67271,
+		"longitude": -73.890358,
+		"name": "Van Siclen Av"
+	},
+	{
+		"id": "A54",
+		"parentStopIds": [
+			"A54"
+		],
+		"stopIds": [
+			"A54N",
+			"A54S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A54",
+				"children": [
+					"A54N",
+					"A54S"
+				]
+			}
+		],
+		"latitude": 40.67413,
+		"longitude": -73.88075,
+		"name": "Shepherd Av"
+	},
+	{
+		"id": "A55",
+		"parentStopIds": [
+			"A55"
+		],
+		"stopIds": [
+			"A55N",
+			"A55S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A55",
+				"children": [
+					"A55N",
+					"A55S"
+				]
+			}
+		],
+		"latitude": 40.675377,
+		"longitude": -73.872106,
+		"name": "Euclid Av"
+	},
+	{
+		"id": "A57",
+		"parentStopIds": [
+			"A57"
+		],
+		"stopIds": [
+			"A57N",
+			"A57S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A57",
+				"children": [
+					"A57N",
+					"A57S"
+				]
+			}
+		],
+		"latitude": 40.677044,
+		"longitude": -73.86505,
+		"name": "Grant Av"
+	},
+	{
+		"id": "A59",
+		"parentStopIds": [
+			"A59"
+		],
+		"stopIds": [
+			"A59N",
+			"A59S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A59",
+				"children": [
+					"A59N",
+					"A59S"
+				]
+			}
+		],
+		"latitude": 40.679371,
+		"longitude": -73.858992,
+		"name": "80 St"
+	},
+	{
+		"id": "A60",
+		"parentStopIds": [
+			"A60"
+		],
+		"stopIds": [
+			"A60N",
+			"A60S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A60",
+				"children": [
+					"A60N",
+					"A60S"
+				]
+			}
+		],
+		"latitude": 40.679843,
+		"longitude": -73.85147,
+		"name": "88 St"
+	},
+	{
+		"id": "A61",
+		"parentStopIds": [
+			"A61"
+		],
+		"stopIds": [
+			"A61N",
+			"A61S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A61",
+				"children": [
+					"A61N",
+					"A61S"
+				]
+			}
+		],
+		"latitude": 40.680429,
+		"longitude": -73.843853,
+		"name": "Rockaway Blvd"
+	},
+	{
+		"id": "A63",
+		"parentStopIds": [
+			"A63"
+		],
+		"stopIds": [
+			"A63N",
+			"A63S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A63",
+				"children": [
+					"A63N",
+					"A63S"
+				]
+			}
+		],
+		"latitude": 40.681711,
+		"longitude": -73.837683,
+		"name": "104 St"
+	},
+	{
+		"id": "A64",
+		"parentStopIds": [
+			"A64"
+		],
+		"stopIds": [
+			"A64N",
+			"A64S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A64",
+				"children": [
+					"A64N",
+					"A64S"
+				]
+			}
+		],
+		"latitude": 40.684331,
+		"longitude": -73.832163,
+		"name": "111 St"
+	},
+	{
+		"id": "A65",
+		"parentStopIds": [
+			"A65"
+		],
+		"stopIds": [
+			"A65N",
+			"A65S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "A65",
+				"children": [
+					"A65N",
+					"A65S"
+				]
+			}
+		],
+		"latitude": 40.685951,
+		"longitude": -73.825798,
+		"name": "Ozone Park-Lefferts Blvd"
+	},
+	{
+		"id": "B04",
+		"parentStopIds": [
+			"B04"
+		],
+		"stopIds": [
+			"B04N",
+			"B04S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B04",
+				"children": [
+					"B04N",
+					"B04S"
+				]
+			}
+		],
+		"latitude": 40.754203,
+		"longitude": -73.942836,
+		"name": "21 St-Queensbridge"
+	},
+	{
+		"id": "B06",
+		"parentStopIds": [
+			"B06"
+		],
+		"stopIds": [
+			"B06N",
+			"B06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B06",
+				"children": [
+					"B06N",
+					"B06S"
+				]
+			}
+		],
+		"latitude": 40.759145,
+		"longitude": -73.95326,
+		"name": "Roosevelt Island"
+	},
+	{
+		"id": "B10",
+		"parentStopIds": [
+			"B10"
+		],
+		"stopIds": [
+			"B10N",
+			"B10S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B10",
+				"children": [
+					"B10N",
+					"B10S"
+				]
+			}
+		],
+		"latitude": 40.763972,
+		"longitude": -73.97745,
+		"name": "57 St"
+	},
+	{
+		"id": "B12",
+		"parentStopIds": [
+			"B12"
+		],
+		"stopIds": [
+			"B12N",
+			"B12S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B12",
+				"children": [
+					"B12N",
+					"B12S"
+				]
+			}
+		],
+		"latitude": 40.646292,
+		"longitude": -73.994324,
+		"name": "9 Av"
+	},
+	{
+		"id": "B13",
+		"parentStopIds": [
+			"B13"
+		],
+		"stopIds": [
+			"B13N",
+			"B13S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B13",
+				"children": [
+					"B13N",
+					"B13S"
+				]
+			}
+		],
+		"latitude": 40.640914,
+		"longitude": -73.994304,
+		"name": "Fort Hamilton Pkwy"
+	},
+	{
+		"id": "B14",
+		"parentStopIds": [
+			"B14"
+		],
+		"stopIds": [
+			"B14N",
+			"B14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B14",
+				"children": [
+					"B14N",
+					"B14S"
+				]
+			}
+		],
+		"latitude": 40.63626,
+		"longitude": -73.994791,
+		"name": "50 St"
+	},
+	{
+		"id": "B15",
+		"parentStopIds": [
+			"B15"
+		],
+		"stopIds": [
+			"B15N",
+			"B15S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B15",
+				"children": [
+					"B15N",
+					"B15S"
+				]
+			}
+		],
+		"latitude": 40.631435,
+		"longitude": -73.995476,
+		"name": "55 St"
+	},
+	{
+		"id": "B16,N04",
+		"parentStopIds": [
+			"B16",
+			"N04"
+		],
+		"stopIds": [
+			"B16N",
+			"B16S",
+			"N04N",
+			"N04S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B16",
+				"children": [
+					"B16N",
+					"B16S"
+				]
+			},
+			{
+				"parentStopId": "N04",
+				"children": [
+					"N04N",
+					"N04S"
+				]
+			}
+		],
+		"latitude": 40.626472,
+		"longitude": -73.996895,
+		"name": "62 St"
+	},
+	{
+		"id": "B17",
+		"parentStopIds": [
+			"B17"
+		],
+		"stopIds": [
+			"B17N",
+			"B17S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B17",
+				"children": [
+					"B17N",
+					"B17S"
+				]
+			}
+		],
+		"latitude": 40.619589,
+		"longitude": -73.998864,
+		"name": "71 St"
+	},
+	{
+		"id": "B18",
+		"parentStopIds": [
+			"B18"
+		],
+		"stopIds": [
+			"B18N",
+			"B18S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B18",
+				"children": [
+					"B18N",
+					"B18S"
+				]
+			}
+		],
+		"latitude": 40.613501,
+		"longitude": -74.00061,
+		"name": "79 St"
+	},
+	{
+		"id": "B19",
+		"parentStopIds": [
+			"B19"
+		],
+		"stopIds": [
+			"B19N",
+			"B19S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B19",
+				"children": [
+					"B19N",
+					"B19S"
+				]
+			}
+		],
+		"latitude": 40.607954,
+		"longitude": -74.001736,
+		"name": "18 Av"
+	},
+	{
+		"id": "B20",
+		"parentStopIds": [
+			"B20"
+		],
+		"stopIds": [
+			"B20N",
+			"B20S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B20",
+				"children": [
+					"B20N",
+					"B20S"
+				]
+			}
+		],
+		"latitude": 40.604556,
+		"longitude": -73.998168,
+		"name": "20 Av"
+	},
+	{
+		"id": "B21",
+		"parentStopIds": [
+			"B21"
+		],
+		"stopIds": [
+			"B21N",
+			"B21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B21",
+				"children": [
+					"B21N",
+					"B21S"
+				]
+			}
+		],
+		"latitude": 40.601875,
+		"longitude": -73.993728,
+		"name": "Bay Pkwy"
+	},
+	{
+		"id": "B22",
+		"parentStopIds": [
+			"B22"
+		],
+		"stopIds": [
+			"B22N",
+			"B22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B22",
+				"children": [
+					"B22N",
+					"B22S"
+				]
+			}
+		],
+		"latitude": 40.597704,
+		"longitude": -73.986829,
+		"name": "25 Av"
+	},
+	{
+		"id": "B23",
+		"parentStopIds": [
+			"B23"
+		],
+		"stopIds": [
+			"B23N",
+			"B23S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "B23",
+				"children": [
+					"B23N",
+					"B23S"
+				]
+			}
+		],
+		"latitude": 40.588841,
+		"longitude": -73.983765,
+		"name": "Bay 50 St"
+	},
+	{
+		"id": "D01",
+		"parentStopIds": [
+			"D01"
+		],
+		"stopIds": [
+			"D01N",
+			"D01S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D01",
+				"children": [
+					"D01N",
+					"D01S"
+				]
+			}
+		],
+		"latitude": 40.874811,
+		"longitude": -73.878855,
+		"name": "Norwood-205 St"
+	},
+	{
+		"id": "D03",
+		"parentStopIds": [
+			"D03"
+		],
+		"stopIds": [
+			"D03N",
+			"D03S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D03",
+				"children": [
+					"D03N",
+					"D03S"
+				]
+			}
+		],
+		"latitude": 40.873244,
+		"longitude": -73.887138,
+		"name": "Bedford Park Blvd"
+	},
+	{
+		"id": "D04",
+		"parentStopIds": [
+			"D04"
+		],
+		"stopIds": [
+			"D04N",
+			"D04S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D04",
+				"children": [
+					"D04N",
+					"D04S"
+				]
+			}
+		],
+		"latitude": 40.866978,
+		"longitude": -73.893509,
+		"name": "Kingsbridge Rd"
+	},
+	{
+		"id": "D05",
+		"parentStopIds": [
+			"D05"
+		],
+		"stopIds": [
+			"D05N",
+			"D05S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D05",
+				"children": [
+					"D05N",
+					"D05S"
+				]
+			}
+		],
+		"latitude": 40.861296,
+		"longitude": -73.897749,
+		"name": "Fordham Rd"
+	},
+	{
+		"id": "D06",
+		"parentStopIds": [
+			"D06"
+		],
+		"stopIds": [
+			"D06N",
+			"D06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D06",
+				"children": [
+					"D06N",
+					"D06S"
+				]
+			}
+		],
+		"latitude": 40.856093,
+		"longitude": -73.900741,
+		"name": "182-183 Sts"
+	},
+	{
+		"id": "D07",
+		"parentStopIds": [
+			"D07"
+		],
+		"stopIds": [
+			"D07N",
+			"D07S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D07",
+				"children": [
+					"D07N",
+					"D07S"
+				]
+			}
+		],
+		"latitude": 40.85041,
+		"longitude": -73.905227,
+		"name": "Tremont Av"
+	},
+	{
+		"id": "D08",
+		"parentStopIds": [
+			"D08"
+		],
+		"stopIds": [
+			"D08N",
+			"D08S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D08",
+				"children": [
+					"D08N",
+					"D08S"
+				]
+			}
+		],
+		"latitude": 40.8459,
+		"longitude": -73.910136,
+		"name": "174-175 Sts"
+	},
+	{
+		"id": "D09",
+		"parentStopIds": [
+			"D09"
+		],
+		"stopIds": [
+			"D09N",
+			"D09S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D09",
+				"children": [
+					"D09N",
+					"D09S"
+				]
+			}
+		],
+		"latitude": 40.839306,
+		"longitude": -73.9134,
+		"name": "170 St"
+	},
+	{
+		"id": "D10",
+		"parentStopIds": [
+			"D10"
+		],
+		"stopIds": [
+			"D10N",
+			"D10S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D10",
+				"children": [
+					"D10N",
+					"D10S"
+				]
+			}
+		],
+		"latitude": 40.833771,
+		"longitude": -73.91844,
+		"name": "167 St"
+	},
+	{
+		"id": "D12",
+		"parentStopIds": [
+			"D12"
+		],
+		"stopIds": [
+			"D12N",
+			"D12S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D12",
+				"children": [
+					"D12N",
+					"D12S"
+				]
+			}
+		],
+		"latitude": 40.830135,
+		"longitude": -73.938209,
+		"name": "155 St"
+	},
+	{
+		"id": "D14",
+		"parentStopIds": [
+			"D14"
+		],
+		"stopIds": [
+			"D14N",
+			"D14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D14",
+				"children": [
+					"D14N",
+					"D14S"
+				]
+			}
+		],
+		"latitude": 40.762862,
+		"longitude": -73.981637,
+		"name": "7 Av"
+	},
+	{
+		"id": "D15",
+		"parentStopIds": [
+			"D15"
+		],
+		"stopIds": [
+			"D15N",
+			"D15S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D15",
+				"children": [
+					"D15N",
+					"D15S"
+				]
+			}
+		],
+		"latitude": 40.758663,
+		"longitude": -73.981329,
+		"name": "47-50 Sts-Rockefeller Ctr"
+	},
+	{
+		"id": "D17,R17",
+		"parentStopIds": [
+			"D17",
+			"R17"
+		],
+		"stopIds": [
+			"D17N",
+			"D17S",
+			"R17N",
+			"R17S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D17",
+				"children": [
+					"D17N",
+					"D17S"
+				]
+			},
+			{
+				"parentStopId": "R17",
+				"children": [
+					"R17N",
+					"R17S"
+				]
+			}
+		],
+		"latitude": 40.749719,
+		"longitude": -73.987823,
+		"name": "34 St-Herald Sq"
+	},
+	{
+		"id": "D18",
+		"parentStopIds": [
+			"D18"
+		],
+		"stopIds": [
+			"D18N",
+			"D18S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D18",
+				"children": [
+					"D18N",
+					"D18S"
+				]
+			}
+		],
+		"latitude": 40.742878,
+		"longitude": -73.992821,
+		"name": "23 St"
+	},
+	{
+		"id": "D22",
+		"parentStopIds": [
+			"D22"
+		],
+		"stopIds": [
+			"D22N",
+			"D22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D22",
+				"children": [
+					"D22N",
+					"D22S"
+				]
+			}
+		],
+		"latitude": 40.718267,
+		"longitude": -73.993753,
+		"name": "Grand St"
+	},
+	{
+		"id": "D25",
+		"parentStopIds": [
+			"D25"
+		],
+		"stopIds": [
+			"D25N",
+			"D25S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D25",
+				"children": [
+					"D25N",
+					"D25S"
+				]
+			}
+		],
+		"latitude": 40.67705,
+		"longitude": -73.972367,
+		"name": "7 Av"
+	},
+	{
+		"id": "D26",
+		"parentStopIds": [
+			"D26"
+		],
+		"stopIds": [
+			"D26N",
+			"D26S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D26",
+				"children": [
+					"D26N",
+					"D26S"
+				]
+			}
+		],
+		"latitude": 40.661614,
+		"longitude": -73.962246,
+		"name": "Prospect Park"
+	},
+	{
+		"id": "D27",
+		"parentStopIds": [
+			"D27"
+		],
+		"stopIds": [
+			"D27N",
+			"D27S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D27",
+				"children": [
+					"D27N",
+					"D27S"
+				]
+			}
+		],
+		"latitude": 40.655292,
+		"longitude": -73.961495,
+		"name": "Parkside Av"
+	},
+	{
+		"id": "D28",
+		"parentStopIds": [
+			"D28"
+		],
+		"stopIds": [
+			"D28N",
+			"D28S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D28",
+				"children": [
+					"D28N",
+					"D28S"
+				]
+			}
+		],
+		"latitude": 40.650527,
+		"longitude": -73.962982,
+		"name": "Church Av"
+	},
+	{
+		"id": "D29",
+		"parentStopIds": [
+			"D29"
+		],
+		"stopIds": [
+			"D29N",
+			"D29S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D29",
+				"children": [
+					"D29N",
+					"D29S"
+				]
+			}
+		],
+		"latitude": 40.644031,
+		"longitude": -73.964492,
+		"name": "Beverley Rd"
+	},
+	{
+		"id": "D30",
+		"parentStopIds": [
+			"D30"
+		],
+		"stopIds": [
+			"D30N",
+			"D30S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D30",
+				"children": [
+					"D30N",
+					"D30S"
+				]
+			}
+		],
+		"latitude": 40.640927,
+		"longitude": -73.963891,
+		"name": "Cortelyou Rd"
+	},
+	{
+		"id": "D31",
+		"parentStopIds": [
+			"D31"
+		],
+		"stopIds": [
+			"D31N",
+			"D31S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D31",
+				"children": [
+					"D31N",
+					"D31S"
+				]
+			}
+		],
+		"latitude": 40.635082,
+		"longitude": -73.962793,
+		"name": "Newkirk Plaza"
+	},
+	{
+		"id": "D32",
+		"parentStopIds": [
+			"D32"
+		],
+		"stopIds": [
+			"D32N",
+			"D32S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D32",
+				"children": [
+					"D32N",
+					"D32S"
+				]
+			}
+		],
+		"latitude": 40.62927,
+		"longitude": -73.961639,
+		"name": "Avenue H"
+	},
+	{
+		"id": "D33",
+		"parentStopIds": [
+			"D33"
+		],
+		"stopIds": [
+			"D33N",
+			"D33S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D33",
+				"children": [
+					"D33N",
+					"D33S"
+				]
+			}
+		],
+		"latitude": 40.625039,
+		"longitude": -73.960803,
+		"name": "Avenue J"
+	},
+	{
+		"id": "D34",
+		"parentStopIds": [
+			"D34"
+		],
+		"stopIds": [
+			"D34N",
+			"D34S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D34",
+				"children": [
+					"D34N",
+					"D34S"
+				]
+			}
+		],
+		"latitude": 40.617618,
+		"longitude": -73.959399,
+		"name": "Avenue M"
+	},
+	{
+		"id": "D35",
+		"parentStopIds": [
+			"D35"
+		],
+		"stopIds": [
+			"D35N",
+			"D35S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D35",
+				"children": [
+					"D35N",
+					"D35S"
+				]
+			}
+		],
+		"latitude": 40.60867,
+		"longitude": -73.957734,
+		"name": "Kings Hwy"
+	},
+	{
+		"id": "D37",
+		"parentStopIds": [
+			"D37"
+		],
+		"stopIds": [
+			"D37N",
+			"D37S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D37",
+				"children": [
+					"D37N",
+					"D37S"
+				]
+			}
+		],
+		"latitude": 40.5993,
+		"longitude": -73.955929,
+		"name": "Avenue U"
+	},
+	{
+		"id": "D38",
+		"parentStopIds": [
+			"D38"
+		],
+		"stopIds": [
+			"D38N",
+			"D38S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D38",
+				"children": [
+					"D38N",
+					"D38S"
+				]
+			}
+		],
+		"latitude": 40.595246,
+		"longitude": -73.955161,
+		"name": "Neck Rd"
+	},
+	{
+		"id": "D39",
+		"parentStopIds": [
+			"D39"
+		],
+		"stopIds": [
+			"D39N",
+			"D39S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D39",
+				"children": [
+					"D39N",
+					"D39S"
+				]
+			}
+		],
+		"latitude": 40.586896,
+		"longitude": -73.954155,
+		"name": "Sheepshead Bay"
+	},
+	{
+		"id": "D40",
+		"parentStopIds": [
+			"D40"
+		],
+		"stopIds": [
+			"D40N",
+			"D40S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D40",
+				"children": [
+					"D40N",
+					"D40S"
+				]
+			}
+		],
+		"latitude": 40.577621,
+		"longitude": -73.961376,
+		"name": "Brighton Beach"
+	},
+	{
+		"id": "D41",
+		"parentStopIds": [
+			"D41"
+		],
+		"stopIds": [
+			"D41N",
+			"D41S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D41",
+				"children": [
+					"D41N",
+					"D41S"
+				]
+			}
+		],
+		"latitude": 40.576312,
+		"longitude": -73.968501,
+		"name": "Ocean Pkwy"
+	},
+	{
+		"id": "D42",
+		"parentStopIds": [
+			"D42"
+		],
+		"stopIds": [
+			"D42N",
+			"D42S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D42",
+				"children": [
+					"D42N",
+					"D42S"
+				]
+			}
+		],
+		"latitude": 40.576127,
+		"longitude": -73.975939,
+		"name": "W 8 St-NY Aquarium"
+	},
+	{
+		"id": "D43",
+		"parentStopIds": [
+			"D43"
+		],
+		"stopIds": [
+			"D43N",
+			"D43S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "D43",
+				"children": [
+					"D43N",
+					"D43S"
+				]
+			}
+		],
+		"latitude": 40.577422,
+		"longitude": -73.981233,
+		"name": "Coney Island-Stillwell Av"
+	},
+	{
+		"id": "F01",
+		"parentStopIds": [
+			"F01"
+		],
+		"stopIds": [
+			"F01N",
+			"F01S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F01",
+				"children": [
+					"F01N",
+					"F01S"
+				]
+			}
+		],
+		"latitude": 40.712646,
+		"longitude": -73.783817,
+		"name": "Jamaica-179 St"
+	},
+	{
+		"id": "F02",
+		"parentStopIds": [
+			"F02"
+		],
+		"stopIds": [
+			"F02N",
+			"F02S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F02",
+				"children": [
+					"F02N",
+					"F02S"
+				]
+			}
+		],
+		"latitude": 40.71047,
+		"longitude": -73.793604,
+		"name": "169 St"
+	},
+	{
+		"id": "F03",
+		"parentStopIds": [
+			"F03"
+		],
+		"stopIds": [
+			"F03N",
+			"F03S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F03",
+				"children": [
+					"F03N",
+					"F03S"
+				]
+			}
+		],
+		"latitude": 40.707564,
+		"longitude": -73.803326,
+		"name": "Parsons Blvd"
+	},
+	{
+		"id": "F04",
+		"parentStopIds": [
+			"F04"
+		],
+		"stopIds": [
+			"F04N",
+			"F04S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F04",
+				"children": [
+					"F04N",
+					"F04S"
+				]
+			}
+		],
+		"latitude": 40.70546,
+		"longitude": -73.810708,
+		"name": "Sutphin Blvd"
+	},
+	{
+		"id": "F06",
+		"parentStopIds": [
+			"F06"
+		],
+		"stopIds": [
+			"F06N",
+			"F06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F06",
+				"children": [
+					"F06N",
+					"F06S"
+				]
+			}
+		],
+		"latitude": 40.714441,
+		"longitude": -73.831008,
+		"name": "Kew Gardens-Union Tpke"
+	},
+	{
+		"id": "F07",
+		"parentStopIds": [
+			"F07"
+		],
+		"stopIds": [
+			"F07N",
+			"F07S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F07",
+				"children": [
+					"F07N",
+					"F07S"
+				]
+			}
+		],
+		"latitude": 40.718331,
+		"longitude": -73.837324,
+		"name": "75 Av"
+	},
+	{
+		"id": "F12",
+		"parentStopIds": [
+			"F12"
+		],
+		"stopIds": [
+			"F12N",
+			"F12S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F12",
+				"children": [
+					"F12N",
+					"F12S"
+				]
+			}
+		],
+		"latitude": 40.760167,
+		"longitude": -73.975224,
+		"name": "5 Av/53 St"
+	},
+	{
+		"id": "F14",
+		"parentStopIds": [
+			"F14"
+		],
+		"stopIds": [
+			"F14N",
+			"F14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F14",
+				"children": [
+					"F14N",
+					"F14S"
+				]
+			}
+		],
+		"latitude": 40.723402,
+		"longitude": -73.989938,
+		"name": "2 Av"
+	},
+	{
+		"id": "F15,M18",
+		"parentStopIds": [
+			"F15",
+			"M18"
+		],
+		"stopIds": [
+			"F15N",
+			"F15S",
+			"M18N",
+			"M18S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F15",
+				"children": [
+					"F15N",
+					"F15S"
+				]
+			},
+			{
+				"parentStopId": "M18",
+				"children": [
+					"M18N",
+					"M18S"
+				]
+			}
+		],
+		"latitude": 40.718611,
+		"longitude": -73.988114,
+		"name": "Delancey St-Essex St"
+	},
+	{
+		"id": "F16",
+		"parentStopIds": [
+			"F16"
+		],
+		"stopIds": [
+			"F16N",
+			"F16S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F16",
+				"children": [
+					"F16N",
+					"F16S"
+				]
+			}
+		],
+		"latitude": 40.713715,
+		"longitude": -73.990173,
+		"name": "East Broadway"
+	},
+	{
+		"id": "F18",
+		"parentStopIds": [
+			"F18"
+		],
+		"stopIds": [
+			"F18N",
+			"F18S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F18",
+				"children": [
+					"F18N",
+					"F18S"
+				]
+			}
+		],
+		"latitude": 40.701397,
+		"longitude": -73.986751,
+		"name": "York St"
+	},
+	{
+		"id": "F21",
+		"parentStopIds": [
+			"F21"
+		],
+		"stopIds": [
+			"F21N",
+			"F21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F21",
+				"children": [
+					"F21N",
+					"F21S"
+				]
+			}
+		],
+		"latitude": 40.680303,
+		"longitude": -73.995048,
+		"name": "Carroll St"
+	},
+	{
+		"id": "F22",
+		"parentStopIds": [
+			"F22"
+		],
+		"stopIds": [
+			"F22N",
+			"F22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F22",
+				"children": [
+					"F22N",
+					"F22S"
+				]
+			}
+		],
+		"latitude": 40.67358,
+		"longitude": -73.995959,
+		"name": "Smith-9 Sts"
+	},
+	{
+		"id": "F23,R33",
+		"parentStopIds": [
+			"F23",
+			"R33"
+		],
+		"stopIds": [
+			"F23N",
+			"F23S",
+			"R33N",
+			"R33S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F23",
+				"children": [
+					"F23N",
+					"F23S"
+				]
+			},
+			{
+				"parentStopId": "R33",
+				"children": [
+					"R33N",
+					"R33S"
+				]
+			}
+		],
+		"latitude": 40.670272,
+		"longitude": -73.989779,
+		"name": "4 Av-9 St"
+	},
+	{
+		"id": "F24",
+		"parentStopIds": [
+			"F24"
+		],
+		"stopIds": [
+			"F24N",
+			"F24S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F24",
+				"children": [
+					"F24N",
+					"F24S"
+				]
+			}
+		],
+		"latitude": 40.666271,
+		"longitude": -73.980305,
+		"name": "7 Av"
+	},
+	{
+		"id": "F25",
+		"parentStopIds": [
+			"F25"
+		],
+		"stopIds": [
+			"F25N",
+			"F25S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F25",
+				"children": [
+					"F25N",
+					"F25S"
+				]
+			}
+		],
+		"latitude": 40.660365,
+		"longitude": -73.979493,
+		"name": "15 St-Prospect Park"
+	},
+	{
+		"id": "F26",
+		"parentStopIds": [
+			"F26"
+		],
+		"stopIds": [
+			"F26N",
+			"F26S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F26",
+				"children": [
+					"F26N",
+					"F26S"
+				]
+			}
+		],
+		"latitude": 40.650782,
+		"longitude": -73.975776,
+		"name": "Fort Hamilton Pkwy"
+	},
+	{
+		"id": "F27",
+		"parentStopIds": [
+			"F27"
+		],
+		"stopIds": [
+			"F27N",
+			"F27S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F27",
+				"children": [
+					"F27N",
+					"F27S"
+				]
+			}
+		],
+		"latitude": 40.644041,
+		"longitude": -73.979678,
+		"name": "Church Av"
+	},
+	{
+		"id": "F29",
+		"parentStopIds": [
+			"F29"
+		],
+		"stopIds": [
+			"F29N",
+			"F29S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F29",
+				"children": [
+					"F29N",
+					"F29S"
+				]
+			}
+		],
+		"latitude": 40.636119,
+		"longitude": -73.978172,
+		"name": "Ditmas Av"
+	},
+	{
+		"id": "F30",
+		"parentStopIds": [
+			"F30"
+		],
+		"stopIds": [
+			"F30N",
+			"F30S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F30",
+				"children": [
+					"F30N",
+					"F30S"
+				]
+			}
+		],
+		"latitude": 40.629755,
+		"longitude": -73.976971,
+		"name": "18 Av"
+	},
+	{
+		"id": "F31",
+		"parentStopIds": [
+			"F31"
+		],
+		"stopIds": [
+			"F31N",
+			"F31S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F31",
+				"children": [
+					"F31N",
+					"F31S"
+				]
+			}
+		],
+		"latitude": 40.625322,
+		"longitude": -73.976127,
+		"name": "Avenue I"
+	},
+	{
+		"id": "F32",
+		"parentStopIds": [
+			"F32"
+		],
+		"stopIds": [
+			"F32N",
+			"F32S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F32",
+				"children": [
+					"F32N",
+					"F32S"
+				]
+			}
+		],
+		"latitude": 40.620769,
+		"longitude": -73.975264,
+		"name": "Bay Pkwy"
+	},
+	{
+		"id": "F33",
+		"parentStopIds": [
+			"F33"
+		],
+		"stopIds": [
+			"F33N",
+			"F33S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F33",
+				"children": [
+					"F33N",
+					"F33S"
+				]
+			}
+		],
+		"latitude": 40.61514,
+		"longitude": -73.974197,
+		"name": "Avenue N"
+	},
+	{
+		"id": "F34",
+		"parentStopIds": [
+			"F34"
+		],
+		"stopIds": [
+			"F34N",
+			"F34S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F34",
+				"children": [
+					"F34N",
+					"F34S"
+				]
+			}
+		],
+		"latitude": 40.608944,
+		"longitude": -73.973022,
+		"name": "Avenue P"
+	},
+	{
+		"id": "F35",
+		"parentStopIds": [
+			"F35"
+		],
+		"stopIds": [
+			"F35N",
+			"F35S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F35",
+				"children": [
+					"F35N",
+					"F35S"
+				]
+			}
+		],
+		"latitude": 40.603217,
+		"longitude": -73.972361,
+		"name": "Kings Hwy"
+	},
+	{
+		"id": "F36",
+		"parentStopIds": [
+			"F36"
+		],
+		"stopIds": [
+			"F36N",
+			"F36S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F36",
+				"children": [
+					"F36N",
+					"F36S"
+				]
+			}
+		],
+		"latitude": 40.596063,
+		"longitude": -73.973357,
+		"name": "Avenue U"
+	},
+	{
+		"id": "F38",
+		"parentStopIds": [
+			"F38"
+		],
+		"stopIds": [
+			"F38N",
+			"F38S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F38",
+				"children": [
+					"F38N",
+					"F38S"
+				]
+			}
+		],
+		"latitude": 40.58962,
+		"longitude": -73.97425,
+		"name": "Avenue X"
+	},
+	{
+		"id": "F39",
+		"parentStopIds": [
+			"F39"
+		],
+		"stopIds": [
+			"F39N",
+			"F39S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "F39",
+				"children": [
+					"F39N",
+					"F39S"
+				]
+			}
+		],
+		"latitude": 40.581011,
+		"longitude": -73.974574,
+		"name": "Neptune Av"
+	},
+	{
+		"id": "G05",
+		"parentStopIds": [
+			"G05"
+		],
+		"stopIds": [
+			"G05N",
+			"G05S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G05",
+				"children": [
+					"G05N",
+					"G05S"
+				]
+			}
+		],
+		"latitude": 40.702147,
+		"longitude": -73.801109,
+		"name": "Jamaica Center-Parsons/Archer"
+	},
+	{
+		"id": "G06",
+		"parentStopIds": [
+			"G06"
+		],
+		"stopIds": [
+			"G06N",
+			"G06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G06",
+				"children": [
+					"G06N",
+					"G06S"
+				]
+			}
+		],
+		"latitude": 40.700486,
+		"longitude": -73.807969,
+		"name": "Sutphin Blvd-Archer Av-JFK Airport"
+	},
+	{
+		"id": "G07",
+		"parentStopIds": [
+			"G07"
+		],
+		"stopIds": [
+			"G07N",
+			"G07S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G07",
+				"children": [
+					"G07N",
+					"G07S"
+				]
+			}
+		],
+		"latitude": 40.702566,
+		"longitude": -73.816859,
+		"name": "Jamaica-Van Wyck"
+	},
+	{
+		"id": "G08",
+		"parentStopIds": [
+			"G08"
+		],
+		"stopIds": [
+			"G08N",
+			"G08S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G08",
+				"children": [
+					"G08N",
+					"G08S"
+				]
+			}
+		],
+		"latitude": 40.721691,
+		"longitude": -73.844521,
+		"name": "Forest Hills-71 Av"
+	},
+	{
+		"id": "G09",
+		"parentStopIds": [
+			"G09"
+		],
+		"stopIds": [
+			"G09N",
+			"G09S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G09",
+				"children": [
+					"G09N",
+					"G09S"
+				]
+			}
+		],
+		"latitude": 40.726523,
+		"longitude": -73.852719,
+		"name": "67 Av"
+	},
+	{
+		"id": "G10",
+		"parentStopIds": [
+			"G10"
+		],
+		"stopIds": [
+			"G10N",
+			"G10S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G10",
+				"children": [
+					"G10N",
+					"G10S"
+				]
+			}
+		],
+		"latitude": 40.729846,
+		"longitude": -73.861604,
+		"name": "63 Dr-Rego Park"
+	},
+	{
+		"id": "G11",
+		"parentStopIds": [
+			"G11"
+		],
+		"stopIds": [
+			"G11N",
+			"G11S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G11",
+				"children": [
+					"G11N",
+					"G11S"
+				]
+			}
+		],
+		"latitude": 40.733106,
+		"longitude": -73.869229,
+		"name": "Woodhaven Blvd"
+	},
+	{
+		"id": "G12",
+		"parentStopIds": [
+			"G12"
+		],
+		"stopIds": [
+			"G12N",
+			"G12S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G12",
+				"children": [
+					"G12N",
+					"G12S"
+				]
+			}
+		],
+		"latitude": 40.737015,
+		"longitude": -73.877223,
+		"name": "Grand Av-Newtown"
+	},
+	{
+		"id": "G13",
+		"parentStopIds": [
+			"G13"
+		],
+		"stopIds": [
+			"G13N",
+			"G13S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G13",
+				"children": [
+					"G13N",
+					"G13S"
+				]
+			}
+		],
+		"latitude": 40.742454,
+		"longitude": -73.882017,
+		"name": "Elmhurst Av"
+	},
+	{
+		"id": "G15",
+		"parentStopIds": [
+			"G15"
+		],
+		"stopIds": [
+			"G15N",
+			"G15S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G15",
+				"children": [
+					"G15N",
+					"G15S"
+				]
+			}
+		],
+		"latitude": 40.749669,
+		"longitude": -73.898453,
+		"name": "65 St"
+	},
+	{
+		"id": "G16",
+		"parentStopIds": [
+			"G16"
+		],
+		"stopIds": [
+			"G16N",
+			"G16S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G16",
+				"children": [
+					"G16N",
+					"G16S"
+				]
+			}
+		],
+		"latitude": 40.752885,
+		"longitude": -73.906006,
+		"name": "Northern Blvd"
+	},
+	{
+		"id": "G18",
+		"parentStopIds": [
+			"G18"
+		],
+		"stopIds": [
+			"G18N",
+			"G18S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G18",
+				"children": [
+					"G18N",
+					"G18S"
+				]
+			}
+		],
+		"latitude": 40.756312,
+		"longitude": -73.913333,
+		"name": "46 St"
+	},
+	{
+		"id": "G19",
+		"parentStopIds": [
+			"G19"
+		],
+		"stopIds": [
+			"G19N",
+			"G19S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G19",
+				"children": [
+					"G19N",
+					"G19S"
+				]
+			}
+		],
+		"latitude": 40.756879,
+		"longitude": -73.92074,
+		"name": "Steinway St"
+	},
+	{
+		"id": "G20",
+		"parentStopIds": [
+			"G20"
+		],
+		"stopIds": [
+			"G20N",
+			"G20S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G20",
+				"children": [
+					"G20N",
+					"G20S"
+				]
+			}
+		],
+		"latitude": 40.752039,
+		"longitude": -73.928781,
+		"name": "36 St"
+	},
+	{
+		"id": "G21",
+		"parentStopIds": [
+			"G21"
+		],
+		"stopIds": [
+			"G21N",
+			"G21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G21",
+				"children": [
+					"G21N",
+					"G21S"
+				]
+			}
+		],
+		"latitude": 40.748973,
+		"longitude": -73.937243,
+		"name": "Queens Plaza"
+	},
+	{
+		"id": "G24",
+		"parentStopIds": [
+			"G24"
+		],
+		"stopIds": [
+			"G24N",
+			"G24S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G24",
+				"children": [
+					"G24N",
+					"G24S"
+				]
+			}
+		],
+		"latitude": 40.744065,
+		"longitude": -73.949724,
+		"name": "21 St"
+	},
+	{
+		"id": "G26",
+		"parentStopIds": [
+			"G26"
+		],
+		"stopIds": [
+			"G26N",
+			"G26S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G26",
+				"children": [
+					"G26N",
+					"G26S"
+				]
+			}
+		],
+		"latitude": 40.731352,
+		"longitude": -73.954449,
+		"name": "Greenpoint Av"
+	},
+	{
+		"id": "G28",
+		"parentStopIds": [
+			"G28"
+		],
+		"stopIds": [
+			"G28N",
+			"G28S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G28",
+				"children": [
+					"G28N",
+					"G28S"
+				]
+			}
+		],
+		"latitude": 40.724635,
+		"longitude": -73.951277,
+		"name": "Nassau Av"
+	},
+	{
+		"id": "G29,L10",
+		"parentStopIds": [
+			"G29",
+			"L10"
+		],
+		"stopIds": [
+			"G29N",
+			"G29S",
+			"L10N",
+			"L10S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G29",
+				"children": [
+					"G29N",
+					"G29S"
+				]
+			},
+			{
+				"parentStopId": "L10",
+				"children": [
+					"L10N",
+					"L10S"
+				]
+			}
+		],
+		"latitude": 40.712792,
+		"longitude": -73.951418,
+		"name": "Metropolitan Av"
+	},
+	{
+		"id": "G30",
+		"parentStopIds": [
+			"G30"
+		],
+		"stopIds": [
+			"G30N",
+			"G30S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G30",
+				"children": [
+					"G30N",
+					"G30S"
+				]
+			}
+		],
+		"latitude": 40.706092,
+		"longitude": -73.950308,
+		"name": "Broadway"
+	},
+	{
+		"id": "G31",
+		"parentStopIds": [
+			"G31"
+		],
+		"stopIds": [
+			"G31N",
+			"G31S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G31",
+				"children": [
+					"G31N",
+					"G31S"
+				]
+			}
+		],
+		"latitude": 40.700377,
+		"longitude": -73.950234,
+		"name": "Flushing Av"
+	},
+	{
+		"id": "G32",
+		"parentStopIds": [
+			"G32"
+		],
+		"stopIds": [
+			"G32N",
+			"G32S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G32",
+				"children": [
+					"G32N",
+					"G32S"
+				]
+			}
+		],
+		"latitude": 40.694568,
+		"longitude": -73.949046,
+		"name": "Myrtle-Willoughby Avs"
+	},
+	{
+		"id": "G33",
+		"parentStopIds": [
+			"G33"
+		],
+		"stopIds": [
+			"G33N",
+			"G33S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G33",
+				"children": [
+					"G33N",
+					"G33S"
+				]
+			}
+		],
+		"latitude": 40.689627,
+		"longitude": -73.953522,
+		"name": "Bedford-Nostrand Avs"
+	},
+	{
+		"id": "G34",
+		"parentStopIds": [
+			"G34"
+		],
+		"stopIds": [
+			"G34N",
+			"G34S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G34",
+				"children": [
+					"G34N",
+					"G34S"
+				]
+			}
+		],
+		"latitude": 40.688873,
+		"longitude": -73.96007,
+		"name": "Classon Av"
+	},
+	{
+		"id": "G35",
+		"parentStopIds": [
+			"G35"
+		],
+		"stopIds": [
+			"G35N",
+			"G35S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G35",
+				"children": [
+					"G35N",
+					"G35S"
+				]
+			}
+		],
+		"latitude": 40.688089,
+		"longitude": -73.966839,
+		"name": "Clinton-Washington Avs"
+	},
+	{
+		"id": "G36",
+		"parentStopIds": [
+			"G36"
+		],
+		"stopIds": [
+			"G36N",
+			"G36S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "G36",
+				"children": [
+					"G36N",
+					"G36S"
+				]
+			}
+		],
+		"latitude": 40.687119,
+		"longitude": -73.975375,
+		"name": "Fulton St"
+	},
+	{
+		"id": "H02",
+		"parentStopIds": [
+			"H02"
+		],
+		"stopIds": [
+			"H02N",
+			"H02S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H02",
+				"children": [
+					"H02N",
+					"H02S"
+				]
+			}
+		],
+		"latitude": 40.668234,
+		"longitude": -73.834058,
+		"name": "Aqueduct-N Conduit Av"
+	},
+	{
+		"id": "H03",
+		"parentStopIds": [
+			"H03"
+		],
+		"stopIds": [
+			"H03N",
+			"H03S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H03",
+				"children": [
+					"H03N",
+					"H03S"
+				]
+			}
+		],
+		"latitude": 40.660476,
+		"longitude": -73.830301,
+		"name": "Howard Beach-JFK Airport"
+	},
+	{
+		"id": "H04",
+		"parentStopIds": [
+			"H04"
+		],
+		"stopIds": [
+			"H04N",
+			"H04S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H04",
+				"children": [
+					"H04N",
+					"H04S"
+				]
+			}
+		],
+		"latitude": 40.608382,
+		"longitude": -73.815925,
+		"name": "Broad Channel"
+	},
+	{
+		"id": "H06",
+		"parentStopIds": [
+			"H06"
+		],
+		"stopIds": [
+			"H06N",
+			"H06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H06",
+				"children": [
+					"H06N",
+					"H06S"
+				]
+			}
+		],
+		"latitude": 40.590927,
+		"longitude": -73.796924,
+		"name": "Beach 67 St"
+	},
+	{
+		"id": "H07",
+		"parentStopIds": [
+			"H07"
+		],
+		"stopIds": [
+			"H07N",
+			"H07S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H07",
+				"children": [
+					"H07N",
+					"H07S"
+				]
+			}
+		],
+		"latitude": 40.592374,
+		"longitude": -73.788522,
+		"name": "Beach 60 St"
+	},
+	{
+		"id": "H08",
+		"parentStopIds": [
+			"H08"
+		],
+		"stopIds": [
+			"H08N",
+			"H08S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H08",
+				"children": [
+					"H08N",
+					"H08S"
+				]
+			}
+		],
+		"latitude": 40.592943,
+		"longitude": -73.776013,
+		"name": "Beach 44 St"
+	},
+	{
+		"id": "H09",
+		"parentStopIds": [
+			"H09"
+		],
+		"stopIds": [
+			"H09N",
+			"H09S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H09",
+				"children": [
+					"H09N",
+					"H09S"
+				]
+			}
+		],
+		"latitude": 40.595398,
+		"longitude": -73.768175,
+		"name": "Beach 36 St"
+	},
+	{
+		"id": "H10",
+		"parentStopIds": [
+			"H10"
+		],
+		"stopIds": [
+			"H10N",
+			"H10S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H10",
+				"children": [
+					"H10N",
+					"H10S"
+				]
+			}
+		],
+		"latitude": 40.600066,
+		"longitude": -73.761353,
+		"name": "Beach 25 St"
+	},
+	{
+		"id": "H11",
+		"parentStopIds": [
+			"H11"
+		],
+		"stopIds": [
+			"H11N",
+			"H11S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H11",
+				"children": [
+					"H11N",
+					"H11S"
+				]
+			}
+		],
+		"latitude": 40.603995,
+		"longitude": -73.755405,
+		"name": "Far Rockaway-Mott Av"
+	},
+	{
+		"id": "H12",
+		"parentStopIds": [
+			"H12"
+		],
+		"stopIds": [
+			"H12N",
+			"H12S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H12",
+				"children": [
+					"H12N",
+					"H12S"
+				]
+			}
+		],
+		"latitude": 40.588034,
+		"longitude": -73.813641,
+		"name": "Beach 90 St"
+	},
+	{
+		"id": "H13",
+		"parentStopIds": [
+			"H13"
+		],
+		"stopIds": [
+			"H13N",
+			"H13S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H13",
+				"children": [
+					"H13N",
+					"H13S"
+				]
+			}
+		],
+		"latitude": 40.585307,
+		"longitude": -73.820558,
+		"name": "Beach 98 St"
+	},
+	{
+		"id": "H14",
+		"parentStopIds": [
+			"H14"
+		],
+		"stopIds": [
+			"H14N",
+			"H14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H14",
+				"children": [
+					"H14N",
+					"H14S"
+				]
+			}
+		],
+		"latitude": 40.583209,
+		"longitude": -73.827559,
+		"name": "Beach 105 St"
+	},
+	{
+		"id": "H15",
+		"parentStopIds": [
+			"H15"
+		],
+		"stopIds": [
+			"H15N",
+			"H15S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "H15",
+				"children": [
+					"H15N",
+					"H15S"
+				]
+			}
+		],
+		"latitude": 40.580903,
+		"longitude": -73.835592,
+		"name": "Rockaway Park-Beach 116 St"
+	},
+	{
+		"id": "J12",
+		"parentStopIds": [
+			"J12"
+		],
+		"stopIds": [
+			"J12N",
+			"J12S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J12",
+				"children": [
+					"J12N",
+					"J12S"
+				]
+			}
+		],
+		"latitude": 40.700492,
+		"longitude": -73.828294,
+		"name": "121 St"
+	},
+	{
+		"id": "J13",
+		"parentStopIds": [
+			"J13"
+		],
+		"stopIds": [
+			"J13N",
+			"J13S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J13",
+				"children": [
+					"J13N",
+					"J13S"
+				]
+			}
+		],
+		"latitude": 40.697418,
+		"longitude": -73.836345,
+		"name": "111 St"
+	},
+	{
+		"id": "J14",
+		"parentStopIds": [
+			"J14"
+		],
+		"stopIds": [
+			"J14N",
+			"J14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J14",
+				"children": [
+					"J14N",
+					"J14S"
+				]
+			}
+		],
+		"latitude": 40.695178,
+		"longitude": -73.84433,
+		"name": "104 St"
+	},
+	{
+		"id": "J15",
+		"parentStopIds": [
+			"J15"
+		],
+		"stopIds": [
+			"J15N",
+			"J15S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J15",
+				"children": [
+					"J15N",
+					"J15S"
+				]
+			}
+		],
+		"latitude": 40.693879,
+		"longitude": -73.851576,
+		"name": "Woodhaven Blvd"
+	},
+	{
+		"id": "J16",
+		"parentStopIds": [
+			"J16"
+		],
+		"stopIds": [
+			"J16N",
+			"J16S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J16",
+				"children": [
+					"J16N",
+					"J16S"
+				]
+			}
+		],
+		"latitude": 40.692435,
+		"longitude": -73.86001,
+		"name": "85 St-Forest Pkwy"
+	},
+	{
+		"id": "J17",
+		"parentStopIds": [
+			"J17"
+		],
+		"stopIds": [
+			"J17N",
+			"J17S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J17",
+				"children": [
+					"J17N",
+					"J17S"
+				]
+			}
+		],
+		"latitude": 40.691324,
+		"longitude": -73.867139,
+		"name": "75 St-Elderts Ln"
+	},
+	{
+		"id": "J19",
+		"parentStopIds": [
+			"J19"
+		],
+		"stopIds": [
+			"J19N",
+			"J19S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J19",
+				"children": [
+					"J19N",
+					"J19S"
+				]
+			}
+		],
+		"latitude": 40.689941,
+		"longitude": -73.87255,
+		"name": "Cypress Hills"
+	},
+	{
+		"id": "J20",
+		"parentStopIds": [
+			"J20"
+		],
+		"stopIds": [
+			"J20N",
+			"J20S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J20",
+				"children": [
+					"J20N",
+					"J20S"
+				]
+			}
+		],
+		"latitude": 40.683194,
+		"longitude": -73.873785,
+		"name": "Crescent St"
+	},
+	{
+		"id": "J21",
+		"parentStopIds": [
+			"J21"
+		],
+		"stopIds": [
+			"J21N",
+			"J21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J21",
+				"children": [
+					"J21N",
+					"J21S"
+				]
+			}
+		],
+		"latitude": 40.68141,
+		"longitude": -73.880039,
+		"name": "Norwood Av"
+	},
+	{
+		"id": "J22",
+		"parentStopIds": [
+			"J22"
+		],
+		"stopIds": [
+			"J22N",
+			"J22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J22",
+				"children": [
+					"J22N",
+					"J22S"
+				]
+			}
+		],
+		"latitude": 40.679947,
+		"longitude": -73.884639,
+		"name": "Cleveland St"
+	},
+	{
+		"id": "J23",
+		"parentStopIds": [
+			"J23"
+		],
+		"stopIds": [
+			"J23N",
+			"J23S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J23",
+				"children": [
+					"J23N",
+					"J23S"
+				]
+			}
+		],
+		"latitude": 40.678024,
+		"longitude": -73.891688,
+		"name": "Van Siclen Av"
+	},
+	{
+		"id": "J24",
+		"parentStopIds": [
+			"J24"
+		],
+		"stopIds": [
+			"J24N",
+			"J24S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J24",
+				"children": [
+					"J24N",
+					"J24S"
+				]
+			}
+		],
+		"latitude": 40.676992,
+		"longitude": -73.898654,
+		"name": "Alabama Av"
+	},
+	{
+		"id": "J28",
+		"parentStopIds": [
+			"J28"
+		],
+		"stopIds": [
+			"J28N",
+			"J28S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J28",
+				"children": [
+					"J28N",
+					"J28S"
+				]
+			}
+		],
+		"latitude": 40.682893,
+		"longitude": -73.910456,
+		"name": "Chauncey St"
+	},
+	{
+		"id": "J29",
+		"parentStopIds": [
+			"J29"
+		],
+		"stopIds": [
+			"J29N",
+			"J29S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J29",
+				"children": [
+					"J29N",
+					"J29S"
+				]
+			}
+		],
+		"latitude": 40.68637,
+		"longitude": -73.916559,
+		"name": "Halsey St"
+	},
+	{
+		"id": "J30",
+		"parentStopIds": [
+			"J30"
+		],
+		"stopIds": [
+			"J30N",
+			"J30S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J30",
+				"children": [
+					"J30N",
+					"J30S"
+				]
+			}
+		],
+		"latitude": 40.68963,
+		"longitude": -73.92227,
+		"name": "Gates Av"
+	},
+	{
+		"id": "J31",
+		"parentStopIds": [
+			"J31"
+		],
+		"stopIds": [
+			"J31N",
+			"J31S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "J31",
+				"children": [
+					"J31N",
+					"J31S"
+				]
+			}
+		],
+		"latitude": 40.693342,
+		"longitude": -73.928814,
+		"name": "Kosciuszko St"
+	},
+	{
+		"id": "L05",
+		"parentStopIds": [
+			"L05"
+		],
+		"stopIds": [
+			"L05N",
+			"L05S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L05",
+				"children": [
+					"L05N",
+					"L05S"
+				]
+			}
+		],
+		"latitude": 40.732849,
+		"longitude": -73.986122,
+		"name": "3 Av"
+	},
+	{
+		"id": "L06",
+		"parentStopIds": [
+			"L06"
+		],
+		"stopIds": [
+			"L06N",
+			"L06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L06",
+				"children": [
+					"L06N",
+					"L06S"
+				]
+			}
+		],
+		"latitude": 40.730953,
+		"longitude": -73.981628,
+		"name": "1 Av"
+	},
+	{
+		"id": "L08",
+		"parentStopIds": [
+			"L08"
+		],
+		"stopIds": [
+			"L08N",
+			"L08S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L08",
+				"children": [
+					"L08N",
+					"L08S"
+				]
+			}
+		],
+		"latitude": 40.717304,
+		"longitude": -73.956872,
+		"name": "Bedford Av"
+	},
+	{
+		"id": "L11",
+		"parentStopIds": [
+			"L11"
+		],
+		"stopIds": [
+			"L11N",
+			"L11S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L11",
+				"children": [
+					"L11N",
+					"L11S"
+				]
+			}
+		],
+		"latitude": 40.714565,
+		"longitude": -73.944053,
+		"name": "Graham Av"
+	},
+	{
+		"id": "L12",
+		"parentStopIds": [
+			"L12"
+		],
+		"stopIds": [
+			"L12N",
+			"L12S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L12",
+				"children": [
+					"L12N",
+					"L12S"
+				]
+			}
+		],
+		"latitude": 40.711926,
+		"longitude": -73.94067,
+		"name": "Grand St"
+	},
+	{
+		"id": "L13",
+		"parentStopIds": [
+			"L13"
+		],
+		"stopIds": [
+			"L13N",
+			"L13S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L13",
+				"children": [
+					"L13N",
+					"L13S"
+				]
+			}
+		],
+		"latitude": 40.707739,
+		"longitude": -73.93985,
+		"name": "Montrose Av"
+	},
+	{
+		"id": "L14",
+		"parentStopIds": [
+			"L14"
+		],
+		"stopIds": [
+			"L14N",
+			"L14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L14",
+				"children": [
+					"L14N",
+					"L14S"
+				]
+			}
+		],
+		"latitude": 40.706152,
+		"longitude": -73.933147,
+		"name": "Morgan Av"
+	},
+	{
+		"id": "L15",
+		"parentStopIds": [
+			"L15"
+		],
+		"stopIds": [
+			"L15N",
+			"L15S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L15",
+				"children": [
+					"L15N",
+					"L15S"
+				]
+			}
+		],
+		"latitude": 40.706607,
+		"longitude": -73.922913,
+		"name": "Jefferson St"
+	},
+	{
+		"id": "L16",
+		"parentStopIds": [
+			"L16"
+		],
+		"stopIds": [
+			"L16N",
+			"L16S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L16",
+				"children": [
+					"L16N",
+					"L16S"
+				]
+			}
+		],
+		"latitude": 40.703811,
+		"longitude": -73.918425,
+		"name": "DeKalb Av"
+	},
+	{
+		"id": "L17,M08",
+		"parentStopIds": [
+			"L17",
+			"M08"
+		],
+		"stopIds": [
+			"L17N",
+			"L17S",
+			"M08N",
+			"M08S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L17",
+				"children": [
+					"L17N",
+					"L17S"
+				]
+			},
+			{
+				"parentStopId": "M08",
+				"children": [
+					"M08N",
+					"M08S"
+				]
+			}
+		],
+		"latitude": 40.699814,
+		"longitude": -73.911586,
+		"name": "Myrtle-Wyckoff Avs"
+	},
+	{
+		"id": "L19",
+		"parentStopIds": [
+			"L19"
+		],
+		"stopIds": [
+			"L19N",
+			"L19S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L19",
+				"children": [
+					"L19N",
+					"L19S"
+				]
+			}
+		],
+		"latitude": 40.695602,
+		"longitude": -73.904084,
+		"name": "Halsey St"
+	},
+	{
+		"id": "L20",
+		"parentStopIds": [
+			"L20"
+		],
+		"stopIds": [
+			"L20N",
+			"L20S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L20",
+				"children": [
+					"L20N",
+					"L20S"
+				]
+			}
+		],
+		"latitude": 40.688764,
+		"longitude": -73.904046,
+		"name": "Wilson Av"
+	},
+	{
+		"id": "L21",
+		"parentStopIds": [
+			"L21"
+		],
+		"stopIds": [
+			"L21N",
+			"L21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L21",
+				"children": [
+					"L21N",
+					"L21S"
+				]
+			}
+		],
+		"latitude": 40.682829,
+		"longitude": -73.905249,
+		"name": "Bushwick Av-Aberdeen St"
+	},
+	{
+		"id": "L24",
+		"parentStopIds": [
+			"L24"
+		],
+		"stopIds": [
+			"L24N",
+			"L24S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L24",
+				"children": [
+					"L24N",
+					"L24S"
+				]
+			}
+		],
+		"latitude": 40.675345,
+		"longitude": -73.903097,
+		"name": "Atlantic Av"
+	},
+	{
+		"id": "L25",
+		"parentStopIds": [
+			"L25"
+		],
+		"stopIds": [
+			"L25N",
+			"L25S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L25",
+				"children": [
+					"L25N",
+					"L25S"
+				]
+			}
+		],
+		"latitude": 40.669367,
+		"longitude": -73.901975,
+		"name": "Sutter Av"
+	},
+	{
+		"id": "L27",
+		"parentStopIds": [
+			"L27"
+		],
+		"stopIds": [
+			"L27N",
+			"L27S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L27",
+				"children": [
+					"L27N",
+					"L27S"
+				]
+			}
+		],
+		"latitude": 40.658733,
+		"longitude": -73.899232,
+		"name": "New Lots Av"
+	},
+	{
+		"id": "L28",
+		"parentStopIds": [
+			"L28"
+		],
+		"stopIds": [
+			"L28N",
+			"L28S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L28",
+				"children": [
+					"L28N",
+					"L28S"
+				]
+			}
+		],
+		"latitude": 40.650573,
+		"longitude": -73.899485,
+		"name": "East 105 St"
+	},
+	{
+		"id": "L29",
+		"parentStopIds": [
+			"L29"
+		],
+		"stopIds": [
+			"L29N",
+			"L29S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "L29",
+				"children": [
+					"L29N",
+					"L29S"
+				]
+			}
+		],
+		"latitude": 40.646654,
+		"longitude": -73.90185,
+		"name": "Canarsie-Rockaway Pkwy"
+	},
+	{
+		"id": "M01",
+		"parentStopIds": [
+			"M01"
+		],
+		"stopIds": [
+			"M01N",
+			"M01S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M01",
+				"children": [
+					"M01N",
+					"M01S"
+				]
+			}
+		],
+		"latitude": 40.711396,
+		"longitude": -73.889601,
+		"name": "Middle Village-Metropolitan Av"
+	},
+	{
+		"id": "M04",
+		"parentStopIds": [
+			"M04"
+		],
+		"stopIds": [
+			"M04N",
+			"M04S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M04",
+				"children": [
+					"M04N",
+					"M04S"
+				]
+			}
+		],
+		"latitude": 40.706186,
+		"longitude": -73.895877,
+		"name": "Fresh Pond Rd"
+	},
+	{
+		"id": "M05",
+		"parentStopIds": [
+			"M05"
+		],
+		"stopIds": [
+			"M05N",
+			"M05S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M05",
+				"children": [
+					"M05N",
+					"M05S"
+				]
+			}
+		],
+		"latitude": 40.704423,
+		"longitude": -73.903077,
+		"name": "Forest Av"
+	},
+	{
+		"id": "M06",
+		"parentStopIds": [
+			"M06"
+		],
+		"stopIds": [
+			"M06N",
+			"M06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M06",
+				"children": [
+					"M06N",
+					"M06S"
+				]
+			}
+		],
+		"latitude": 40.702762,
+		"longitude": -73.90774,
+		"name": "Seneca Av"
+	},
+	{
+		"id": "M09",
+		"parentStopIds": [
+			"M09"
+		],
+		"stopIds": [
+			"M09N",
+			"M09S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M09",
+				"children": [
+					"M09N",
+					"M09S"
+				]
+			}
+		],
+		"latitude": 40.698664,
+		"longitude": -73.919711,
+		"name": "Knickerbocker Av"
+	},
+	{
+		"id": "M10",
+		"parentStopIds": [
+			"M10"
+		],
+		"stopIds": [
+			"M10N",
+			"M10S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M10",
+				"children": [
+					"M10N",
+					"M10S"
+				]
+			}
+		],
+		"latitude": 40.697857,
+		"longitude": -73.927397,
+		"name": "Central Av"
+	},
+	{
+		"id": "M11",
+		"parentStopIds": [
+			"M11"
+		],
+		"stopIds": [
+			"M11N",
+			"M11S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M11",
+				"children": [
+					"M11N",
+					"M11S"
+				]
+			}
+		],
+		"latitude": 40.697207,
+		"longitude": -73.935657,
+		"name": "Myrtle Av"
+	},
+	{
+		"id": "M12",
+		"parentStopIds": [
+			"M12"
+		],
+		"stopIds": [
+			"M12N",
+			"M12S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M12",
+				"children": [
+					"M12N",
+					"M12S"
+				]
+			}
+		],
+		"latitude": 40.70026,
+		"longitude": -73.941126,
+		"name": "Flushing Av"
+	},
+	{
+		"id": "M13",
+		"parentStopIds": [
+			"M13"
+		],
+		"stopIds": [
+			"M13N",
+			"M13S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M13",
+				"children": [
+					"M13N",
+					"M13S"
+				]
+			}
+		],
+		"latitude": 40.703869,
+		"longitude": -73.947408,
+		"name": "Lorimer St"
+	},
+	{
+		"id": "M14",
+		"parentStopIds": [
+			"M14"
+		],
+		"stopIds": [
+			"M14N",
+			"M14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M14",
+				"children": [
+					"M14N",
+					"M14S"
+				]
+			}
+		],
+		"latitude": 40.70687,
+		"longitude": -73.953431,
+		"name": "Hewes St"
+	},
+	{
+		"id": "M16",
+		"parentStopIds": [
+			"M16"
+		],
+		"stopIds": [
+			"M16N",
+			"M16S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M16",
+				"children": [
+					"M16N",
+					"M16S"
+				]
+			}
+		],
+		"latitude": 40.708359,
+		"longitude": -73.957757,
+		"name": "Marcy Av"
+	},
+	{
+		"id": "M19",
+		"parentStopIds": [
+			"M19"
+		],
+		"stopIds": [
+			"M19N",
+			"M19S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M19",
+				"children": [
+					"M19N",
+					"M19S"
+				]
+			}
+		],
+		"latitude": 40.72028,
+		"longitude": -73.993915,
+		"name": "Bowery"
+	},
+	{
+		"id": "M23",
+		"parentStopIds": [
+			"M23"
+		],
+		"stopIds": [
+			"M23N",
+			"M23S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "M23",
+				"children": [
+					"M23N",
+					"M23S"
+				]
+			}
+		],
+		"latitude": 40.706476,
+		"longitude": -74.011056,
+		"name": "Broad St"
+	},
+	{
+		"id": "N02",
+		"parentStopIds": [
+			"N02"
+		],
+		"stopIds": [
+			"N02N",
+			"N02S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "N02",
+				"children": [
+					"N02N",
+					"N02S"
+				]
+			}
+		],
+		"latitude": 40.635064,
+		"longitude": -74.011719,
+		"name": "8 Av"
+	},
+	{
+		"id": "N03",
+		"parentStopIds": [
+			"N03"
+		],
+		"stopIds": [
+			"N03N",
+			"N03S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "N03",
+				"children": [
+					"N03N",
+					"N03S"
+				]
+			}
+		],
+		"latitude": 40.631386,
+		"longitude": -74.005351,
+		"name": "Fort Hamilton Pkwy"
+	},
+	{
+		"id": "N05",
+		"parentStopIds": [
+			"N05"
+		],
+		"stopIds": [
+			"N05N",
+			"N05S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "N05",
+				"children": [
+					"N05N",
+					"N05S"
+				]
+			}
+		],
+		"latitude": 40.620671,
+		"longitude": -73.990414,
+		"name": "18 Av"
+	},
+	{
+		"id": "N06",
+		"parentStopIds": [
+			"N06"
+		],
+		"stopIds": [
+			"N06N",
+			"N06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "N06",
+				"children": [
+					"N06N",
+					"N06S"
+				]
+			}
+		],
+		"latitude": 40.61741,
+		"longitude": -73.985026,
+		"name": "20 Av"
+	},
+	{
+		"id": "N07",
+		"parentStopIds": [
+			"N07"
+		],
+		"stopIds": [
+			"N07N",
+			"N07S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "N07",
+				"children": [
+					"N07N",
+					"N07S"
+				]
+			}
+		],
+		"latitude": 40.611815,
+		"longitude": -73.981848,
+		"name": "Bay Pkwy"
+	},
+	{
+		"id": "N08",
+		"parentStopIds": [
+			"N08"
+		],
+		"stopIds": [
+			"N08N",
+			"N08S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "N08",
+				"children": [
+					"N08N",
+					"N08S"
+				]
+			}
+		],
+		"latitude": 40.603923,
+		"longitude": -73.980353,
+		"name": "Kings Hwy"
+	},
+	{
+		"id": "N09",
+		"parentStopIds": [
+			"N09"
+		],
+		"stopIds": [
+			"N09N",
+			"N09S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "N09",
+				"children": [
+					"N09N",
+					"N09S"
+				]
+			}
+		],
+		"latitude": 40.597473,
+		"longitude": -73.979137,
+		"name": "Avenue U"
+	},
+	{
+		"id": "N10",
+		"parentStopIds": [
+			"N10"
+		],
+		"stopIds": [
+			"N10N",
+			"N10S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "N10",
+				"children": [
+					"N10N",
+					"N10S"
+				]
+			}
+		],
+		"latitude": 40.592721,
+		"longitude": -73.97823,
+		"name": "86 St"
+	},
+	{
+		"id": "R01",
+		"parentStopIds": [
+			"R01"
+		],
+		"stopIds": [
+			"R01N",
+			"R01S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R01",
+				"children": [
+					"R01N",
+					"R01S"
+				]
+			}
+		],
+		"latitude": 40.775036,
+		"longitude": -73.912034,
+		"name": "Astoria-Ditmars Blvd"
+	},
+	{
+		"id": "R03",
+		"parentStopIds": [
+			"R03"
+		],
+		"stopIds": [
+			"R03N",
+			"R03S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R03",
+				"children": [
+					"R03N",
+					"R03S"
+				]
+			}
+		],
+		"latitude": 40.770258,
+		"longitude": -73.917843,
+		"name": "Astoria Blvd"
+	},
+	{
+		"id": "R04",
+		"parentStopIds": [
+			"R04"
+		],
+		"stopIds": [
+			"R04N",
+			"R04S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R04",
+				"children": [
+					"R04N",
+					"R04S"
+				]
+			}
+		],
+		"latitude": 40.766779,
+		"longitude": -73.921479,
+		"name": "30 Av"
+	},
+	{
+		"id": "R05",
+		"parentStopIds": [
+			"R05"
+		],
+		"stopIds": [
+			"R05N",
+			"R05S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R05",
+				"children": [
+					"R05N",
+					"R05S"
+				]
+			}
+		],
+		"latitude": 40.76182,
+		"longitude": -73.925508,
+		"name": "Broadway"
+	},
+	{
+		"id": "R06",
+		"parentStopIds": [
+			"R06"
+		],
+		"stopIds": [
+			"R06N",
+			"R06S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R06",
+				"children": [
+					"R06N",
+					"R06S"
+				]
+			}
+		],
+		"latitude": 40.756804,
+		"longitude": -73.929575,
+		"name": "36 Av"
+	},
+	{
+		"id": "R08",
+		"parentStopIds": [
+			"R08"
+		],
+		"stopIds": [
+			"R08N",
+			"R08S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R08",
+				"children": [
+					"R08N",
+					"R08S"
+				]
+			}
+		],
+		"latitude": 40.752882,
+		"longitude": -73.932755,
+		"name": "39 Av-Dutch Kills"
+	},
+	{
+		"id": "R13",
+		"parentStopIds": [
+			"R13"
+		],
+		"stopIds": [
+			"R13N",
+			"R13S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R13",
+				"children": [
+					"R13N",
+					"R13S"
+				]
+			}
+		],
+		"latitude": 40.764811,
+		"longitude": -73.973347,
+		"name": "5 Av/59 St"
+	},
+	{
+		"id": "R14",
+		"parentStopIds": [
+			"R14"
+		],
+		"stopIds": [
+			"R14N",
+			"R14S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R14",
+				"children": [
+					"R14N",
+					"R14S"
+				]
+			}
+		],
+		"latitude": 40.764664,
+		"longitude": -73.980658,
+		"name": "57 St-7 Av"
+	},
+	{
+		"id": "R15",
+		"parentStopIds": [
+			"R15"
+		],
+		"stopIds": [
+			"R15N",
+			"R15S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R15",
+				"children": [
+					"R15N",
+					"R15S"
+				]
+			}
+		],
+		"latitude": 40.759901,
+		"longitude": -73.984139,
+		"name": "49 St"
+	},
+	{
+		"id": "R18",
+		"parentStopIds": [
+			"R18"
+		],
+		"stopIds": [
+			"R18N",
+			"R18S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R18",
+				"children": [
+					"R18N",
+					"R18S"
+				]
+			}
+		],
+		"latitude": 40.745494,
+		"longitude": -73.988691,
+		"name": "28 St"
+	},
+	{
+		"id": "R19",
+		"parentStopIds": [
+			"R19"
+		],
+		"stopIds": [
+			"R19N",
+			"R19S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R19",
+				"children": [
+					"R19N",
+					"R19S"
+				]
+			}
+		],
+		"latitude": 40.741303,
+		"longitude": -73.989344,
+		"name": "23 St"
+	},
+	{
+		"id": "R21",
+		"parentStopIds": [
+			"R21"
+		],
+		"stopIds": [
+			"R21N",
+			"R21S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R21",
+				"children": [
+					"R21N",
+					"R21S"
+				]
+			}
+		],
+		"latitude": 40.730328,
+		"longitude": -73.992629,
+		"name": "8 St-NYU"
+	},
+	{
+		"id": "R22",
+		"parentStopIds": [
+			"R22"
+		],
+		"stopIds": [
+			"R22N",
+			"R22S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R22",
+				"children": [
+					"R22N",
+					"R22S"
+				]
+			}
+		],
+		"latitude": 40.724329,
+		"longitude": -73.997702,
+		"name": "Prince St"
+	},
+	{
+		"id": "R24",
+		"parentStopIds": [
+			"R24"
+		],
+		"stopIds": [
+			"R24N",
+			"R24S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R24",
+				"children": [
+					"R24N",
+					"R24S"
+				]
+			}
+		],
+		"latitude": 40.713282,
+		"longitude": -74.006978,
+		"name": "City Hall"
+	},
+	{
+		"id": "R26",
+		"parentStopIds": [
+			"R26"
+		],
+		"stopIds": [
+			"R26N",
+			"R26S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R26",
+				"children": [
+					"R26N",
+					"R26S"
+				]
+			}
+		],
+		"latitude": 40.70722,
+		"longitude": -74.013342,
+		"name": "Rector St"
+	},
+	{
+		"id": "R30",
+		"parentStopIds": [
+			"R30"
+		],
+		"stopIds": [
+			"R30N",
+			"R30S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R30",
+				"children": [
+					"R30N",
+					"R30S"
+				]
+			}
+		],
+		"latitude": 40.690635,
+		"longitude": -73.981824,
+		"name": "DeKalb Av"
+	},
+	{
+		"id": "R32",
+		"parentStopIds": [
+			"R32"
+		],
+		"stopIds": [
+			"R32N",
+			"R32S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R32",
+				"children": [
+					"R32N",
+					"R32S"
+				]
+			}
+		],
+		"latitude": 40.677316,
+		"longitude": -73.98311,
+		"name": "Union St"
+	},
+	{
+		"id": "R34",
+		"parentStopIds": [
+			"R34"
+		],
+		"stopIds": [
+			"R34N",
+			"R34S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R34",
+				"children": [
+					"R34N",
+					"R34S"
+				]
+			}
+		],
+		"latitude": 40.665414,
+		"longitude": -73.992872,
+		"name": "Prospect Av"
+	},
+	{
+		"id": "R35",
+		"parentStopIds": [
+			"R35"
+		],
+		"stopIds": [
+			"R35N",
+			"R35S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R35",
+				"children": [
+					"R35N",
+					"R35S"
+				]
+			}
+		],
+		"latitude": 40.660397,
+		"longitude": -73.998091,
+		"name": "25 St"
+	},
+	{
+		"id": "R36",
+		"parentStopIds": [
+			"R36"
+		],
+		"stopIds": [
+			"R36N",
+			"R36S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R36",
+				"children": [
+					"R36N",
+					"R36S"
+				]
+			}
+		],
+		"latitude": 40.655144,
+		"longitude": -74.003549,
+		"name": "36 St"
+	},
+	{
+		"id": "R39",
+		"parentStopIds": [
+			"R39"
+		],
+		"stopIds": [
+			"R39N",
+			"R39S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R39",
+				"children": [
+					"R39N",
+					"R39S"
+				]
+			}
+		],
+		"latitude": 40.648939,
+		"longitude": -74.010006,
+		"name": "45 St"
+	},
+	{
+		"id": "R40",
+		"parentStopIds": [
+			"R40"
+		],
+		"stopIds": [
+			"R40N",
+			"R40S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R40",
+				"children": [
+					"R40N",
+					"R40S"
+				]
+			}
+		],
+		"latitude": 40.645069,
+		"longitude": -74.014034,
+		"name": "53 St"
+	},
+	{
+		"id": "R41",
+		"parentStopIds": [
+			"R41"
+		],
+		"stopIds": [
+			"R41N",
+			"R41S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R41",
+				"children": [
+					"R41N",
+					"R41S"
+				]
+			}
+		],
+		"latitude": 40.641362,
+		"longitude": -74.017881,
+		"name": "59 St"
+	},
+	{
+		"id": "R42",
+		"parentStopIds": [
+			"R42"
+		],
+		"stopIds": [
+			"R42N",
+			"R42S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R42",
+				"children": [
+					"R42N",
+					"R42S"
+				]
+			}
+		],
+		"latitude": 40.634967,
+		"longitude": -74.023377,
+		"name": "Bay Ridge Av"
+	},
+	{
+		"id": "R43",
+		"parentStopIds": [
+			"R43"
+		],
+		"stopIds": [
+			"R43N",
+			"R43S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R43",
+				"children": [
+					"R43N",
+					"R43S"
+				]
+			}
+		],
+		"latitude": 40.629742,
+		"longitude": -74.02551,
+		"name": "77 St"
+	},
+	{
+		"id": "R44",
+		"parentStopIds": [
+			"R44"
+		],
+		"stopIds": [
+			"R44N",
+			"R44S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R44",
+				"children": [
+					"R44N",
+					"R44S"
+				]
+			}
+		],
+		"latitude": 40.622687,
+		"longitude": -74.028398,
+		"name": "86 St"
+	},
+	{
+		"id": "R45",
+		"parentStopIds": [
+			"R45"
+		],
+		"stopIds": [
+			"R45N",
+			"R45S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "R45",
+				"children": [
+					"R45N",
+					"R45S"
+				]
+			}
+		],
+		"latitude": 40.616622,
+		"longitude": -74.030876,
+		"name": "Bay Ridge-95 St"
+	},
+	{
+		"id": "S03",
+		"parentStopIds": [
+			"S03"
+		],
+		"stopIds": [
+			"S03N",
+			"S03S"
+		],
+		"stopFamilies": [
+			{
+				"parentStopId": "S03",
+				"children": [
+					"S03N",
+					"S03S"
+				]
+			}
+		],
+		"latitude": 40.674772,
+		"longitude": -73.957624,
+		"name": "Park Pl"
+	}
+]

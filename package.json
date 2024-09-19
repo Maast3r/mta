@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "buildProto": "pbjs -t static-module -w commonjs -o ./src/gtfs.js ./mta-gtfs-realtime.proto",
+    "generateStations": "node src/generateStations.js",
     "start": "node src/index.js",
     "test": "node src/test.js"
   },

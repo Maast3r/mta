@@ -98,8 +98,8 @@ const test = (feed) => {
                 }
             });
 
-            // console.log(south);
-            // console.log(north);
+            console.log(south);
+            console.log(north);
             return { north, south };
         })
         .catch((error) => {
